@@ -1,0 +1,71 @@
+{
+  "title": "Hayat Bilgisi",
+  "type": "questions",
+  "items": [
+    {
+      "id": "hay-001",
+      "question": "Trafik kazalarının en önemli nedeni nedir?",
+      "options": [
+        "A) Yol durumu",
+        "B) Araç durumu",
+        "C) İnsan hatası",
+        "D) Hava durumu"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trafik kazalarının %90'ından fazlası insan hatasından kaynaklanır. Dikkatsizlik, aşırı hız ve alkol en önemli nedenlerdir.",
+      "imageUrl": ""
+    },
+    {
+      "id": "hay-002",
+      "question": "Çevre bilinci nedir?",
+      "options": [
+        "A) Sadece ağaç dikmek",
+        "B) Doğayı koruma bilinci",
+        "C) Geri dönüşüm yapmak",
+        "D) Tüm seçenekler"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Çevre bilinci; doğayı koruma, geri dönüşüm, tasarruf ve çevreye duyarlı davranışların tümünü kapsar.",
+      "imageUrl": ""
+    },
+    {
+      "id": "hay-003",
+      "question": "Yaya geçidinde yayalara öncelik vermenin amacı nedir?",
+      "options": [
+        "A) Trafik akışını yavaşlatmak",
+        "B) Yaya güvenliğini sağlamak",
+        "C) Araçları yıpratmak",
+        "D) Yakıt tasarrufu"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Yaya geçidinde yayalara öncelik vermenin temel amacı yaya güvenliğini sağlamak ve can kaybını önlemektir.",
+      "imageUrl": ""
+    },
+    {
+      "id": "hay-004",
+      "question": "Trafikte sabırlı olmanın önemi nedir?",
+      "options": [
+        "A) Zaman kazandırır",
+        "B) Stresi azaltır",
+        "C) Kaza riskini azaltır",
+        "D) Hepsi"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trafikte sabırlı olmak; zaman kazandırır, stresi azaltır ve en önemlisi kaza riskini önemli ölçüde azaltır.",
+      "imageUrl": ""
+    },
+    {
+      "id": "hay-005",
+      "question": "Trafik işaretlerini bilmenin önemi nedir?",
+      "options": [
+        "A) Ehliyet almak için",
+        "B) Trafik kurallarına uymak için",
+        "C) Kazaları önlemek için",
+        "D) Hepsi"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trafik işaretlerini bilmek; hem ehliyet almak için hem trafik kurallarına uymak hem de kazaları önlemek için önemlidir.",
+      "imageUrl": ""
+    }
+  ]
+}
