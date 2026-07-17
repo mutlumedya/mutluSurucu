@@ -1,0 +1,71 @@
+{
+  "title": "Karışık Sorular",
+  "type": "questions",
+  "items": [
+    {
+      "id": "kar-001",
+      "question": "Trafik kazasında ilk yapılması gereken nedir?",
+      "options": [
+        "A) Araçları çekmek",
+        "B) Yaralıları taşımak",
+        "C) 112'yi aramak",
+        "D) Sigorta firmasını aramak"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trafik kazasında ilk yapılması gereken 112 acil servisi aramak ve yaralılara müdahale etmektir.",
+      "imageUrl": ""
+    },
+    {
+      "id": "kar-002",
+      "question": "Araç bakımının önemi nedir?",
+      "options": [
+        "A) Yakıt tasarrufu",
+        "B) Güvenli sürüş",
+        "C) Uzun ömürlü araç",
+        "D) Hepsi"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Araç bakımı; yakıt tasarrufu, güvenli sürüş ve aracın uzun ömürlü olması için hayati öneme sahiptir.",
+      "imageUrl": ""
+    },
+    {
+      "id": "kar-003",
+      "question": "Gece araç kullanırken nelere dikkat edilmelidir?",
+      "options": [
+        "A) Uzun far kullanımı",
+        "B) Hız düşürme",
+        "C) Daha dikkatli olma",
+        "D) Hepsi"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Gece araç kullanırken uzun far, hız düşürme ve daha dikkatli olma gibi tüm önlemler alınmalıdır.",
+      "imageUrl": ""
+    },
+    {
+      "id": "kar-004",
+      "question": "Hangi durumlarda araç kullanılmamalıdır?",
+      "options": [
+        "A) Uykusuzken",
+        "B) Hasta iken",
+        "C) Stresli iken",
+        "D) Hepsi"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Uykusuz, hasta veya stresli iken araç kullanmak tehlikelidir ve kaza riskini artırır.",
+      "imageUrl": ""
+    },
+    {
+      "id": "kar-005",
+      "question": "Trafikte iletişim nasıl sağlanır?",
+      "options": [
+        "A) Sinyallerle",
+        "B) Korna ile",
+        "C) El işaretleriyle",
+        "D) Hepsi"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trafikte iletişim; sinyaller, korna ve el işaretleri gibi çeşitli yollarla sağlanır.",
+      "imageUrl": ""
+    }
+  ]
+}
