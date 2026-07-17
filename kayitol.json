@@ -1,0 +1,46 @@
+{
+  "title": "Kayıtlar",
+  "type": "registrations",
+  "items": [
+    {
+      "id": "kayit-001",
+      "fullName": "Ahmet Yılmaz",
+      "phone": "0555 123 45 67",
+      "courseType": "Trafik",
+      "registerDate": "2026-07-15",
+      "status": "active"
+    },
+    {
+      "id": "kayit-002",
+      "fullName": "Mehmet Demir",
+      "phone": "0532 234 56 78",
+      "courseType": "Sağlık",
+      "registerDate": "2026-07-16",
+      "status": "active"
+    },
+    {
+      "id": "kayit-003",
+      "fullName": "Ayşe Kaya",
+      "phone": "0543 345 67 89",
+      "courseType": "Hayat Bilgisi",
+      "registerDate": "2026-07-14",
+      "status": "completed"
+    },
+    {
+      "id": "kayit-004",
+      "fullName": "Fatma Şahin",
+      "phone": "0554 456 78 90",
+      "courseType": "Karışık",
+      "registerDate": "2026-07-17",
+      "status": "active"
+    },
+    {
+      "id": "kayit-005",
+      "fullName": "Ali Öztürk",
+      "phone": "0533 567 89 01",
+      "courseType": "Trafik",
+      "registerDate": "2026-07-13",
+      "status": "inactive"
+    }
+  ]
+}
