@@ -1,0 +1,71 @@
+{
+  "title": "Trafik Kuralları",
+  "type": "questions",
+  "items": [
+    {
+      "id": "trf-001",
+      "question": "Araç kullanırken cep telefonu ile konuşmanın cezası nedir?",
+      "options": [
+        "A) 100 TL",
+        "B) 200 TL",
+        "C) 300 TL",
+        "D) 500 TL"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trafik kanununa göre araç kullanırken cep telefonu ile konuşmanın cezası 300 TL'dir.",
+      "imageUrl": ""
+    },
+    {
+      "id": "trf-002",
+      "question": "Kırmızı ışıkta geçmenin cezası nedir?",
+      "options": [
+        "A) 200 TL",
+        "B) 400 TL",
+        "C) 600 TL",
+        "D) 800 TL"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kırmızı ışıkta geçmenin cezası 400 TL'dir ve 15 ceza puanı uygulanır.",
+      "imageUrl": ""
+    },
+    {
+      "id": "trf-003",
+      "question": "Alkollü araç kullanmanın sınır değeri nedir?",
+      "options": [
+        "A) 0.10 promil",
+        "B) 0.20 promil",
+        "C) 0.50 promil",
+        "D) 1.00 promil"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Türkiye'de alkollü araç kullanma sınırı 0.50 promildir. Bu değerin üzeri ceza gerektirir.",
+      "imageUrl": ""
+    },
+    {
+      "id": "trf-004",
+      "question": "Emniyet kemeri takmamanın cezası nedir?",
+      "options": [
+        "A) 50 TL",
+        "B) 100 TL",
+        "C) 150 TL",
+        "D) 200 TL"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Emniyet kemeri takmamanın cezası 100 TL'dir. Sürücü ve yolcular için geçerlidir.",
+      "imageUrl": ""
+    },
+    {
+      "id": "trf-005",
+      "question": "Hız limiti ihlalinde en düşük ceza nedir?",
+      "options": [
+        "A) 100 TL",
+        "B) 150 TL",
+        "C) 200 TL",
+        "D) 250 TL"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hız limiti ihlalinde en düşük ceza 200 TL'dir. Hız miktarına göre ceza artar.",
+      "imageUrl": ""
+    }
+  ]
+}
