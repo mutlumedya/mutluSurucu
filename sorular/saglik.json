@@ -1,0 +1,71 @@
+{
+  "title": "Sağlık Bilgisi",
+  "type": "questions",
+  "items": [
+    {
+      "id": "sag-001",
+      "question": "İlk yardımın öncelikli amacı nedir?",
+      "options": [
+        "A) Hastaneye sevk etmek",
+        "B) Hayat kurtarmak",
+        "C) İlaç vermek",
+        "D) Röntgen çekmek"
+      ],
+      "correctAnswer": "B",
+      "explanation": "İlk yardımın öncelikli amacı hayat kurtarmaktır. Ardından durumun kötüleşmesini engellemek gelir.",
+      "imageUrl": ""
+    },
+    {
+      "id": "sag-002",
+      "question": "Kalp masajı hangi durumda uygulanır?",
+      "options": [
+        "A) Nefes darlığında",
+        "B) Kalp durmasında",
+        "C) Yüksek ateşte",
+        "D) Bayılmada"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kalp masajı, kalp durması durumunda uygulanır. Nabız yoksa ve solunum durmuşsa yapılır.",
+      "imageUrl": ""
+    },
+    {
+      "id": "sag-003",
+      "question": "Şeker hastalığının belirtisi değildir?",
+      "options": [
+        "A) Çok su içme",
+        "B) Çok yemek yeme",
+        "C) Sık idrara çıkma",
+        "D) Tansiyon düşüklüğü"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tansiyon düşüklüğü şeker hastalığının tipik belirtisi değildir. Çok su içme, çok yemek yeme ve sık idrara çıkma tipik belirtilerdir.",
+      "imageUrl": ""
+    },
+    {
+      "id": "sag-004",
+      "question": "Yanıkta ilk müdahale nedir?",
+      "options": [
+        "A) Yağ sürmek",
+        "B) Soğuk su tutmak",
+        "C) Buz basmak",
+        "D) Macun sürmek"
+      ],
+      "correctAnswer": "B",
+      "explanation": "Yanıkta ilk müdahale 20 dakika soğuk su tutmaktır. Yağ, buz veya macun kesinlikle uygulanmaz.",
+      "imageUrl": ""
+    },
+    {
+      "id": "sag-005",
+      "question": "Kanama durdurma yöntemlerinden biri değildir?",
+      "options": [
+        "A) Basınç uygulama",
+        "B) Turnike uygulama",
+        "C) Kan sulandırıcı verme",
+        "D) Yara üzerine temiz bez koyma"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kanama durdurma yöntemleri arasında kan sulandırıcı vermek yoktur. Bu kanamayı arttırır.",
+      "imageUrl": ""
+    }
+  ]
+}
