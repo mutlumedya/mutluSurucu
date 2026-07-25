@@ -48,7 +48,7 @@ def fetch_adult_channels():
         response = requests.get(ADULT_URL, timeout=10)
         response.raise_for_status()
         
-        # Doğrudan JSON parse et (artık const yok)
+        # Doğrudan JSON parse et
         adult_data = response.json()
         
         # Sadece data array'ini al
@@ -97,12 +97,13 @@ const ADULT_IPTV = {{
 export {{ CODE_CLOUD_BD, ADULT_IPTV }};"""
     
     try:
+        # 🔥 Klasörü oluştur (yoksa)
         os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
         
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             f.write(js_content)
         
-        print(f"✅ Dosya güncellendi: {OUTPUT_FILE}")
+        print(f"✅ Dosya oluşturuldu/güncellendi: {OUTPUT_FILE}")
         print(f"📊 Toplam {len(normal_channels)} normal + {len(adult_channels)} yetişkin = {len(normal_channels) + len(adult_channels)} kanal")
         return True
     except Exception as e:
