@@ -2,7 +2,6 @@ import json
 import requests
 import os
 import sys
-import re
 from datetime import datetime
 
 # ============================================
@@ -44,38 +43,13 @@ def fetch_channels_from_firebase():
         return None
 
 def fetch_adult_channels():
-    """Adult IPTV kanallarını çek - DÜZELTİLDİ"""
+    """Adult IPTV kanallarını çek"""
     try:
         response = requests.get(ADULT_URL, timeout=10)
         response.raise_for_status()
         
-        # UTF-8 olarak decode et
-        content = response.text
-        print(f"📄 Adult verisi uzunluğu: {len(content)} karakter")
-        
-        # "const ADULT_IPTV = " kısmını kaldır
-        if 'const ADULT_IPTV = ' in content:
-            content = content.split('const ADULT_IPTV = ', 1)[1]
-        
-        # Başındaki ve sonundaki boşlukları temizle
-        content = content.strip()
-        
-        # Sonundaki noktalı virgülü kaldır
-        if content.endswith(';'):
-            content = content[:-1]
-        
-        # 🔥 JavaScript object'ini JSON'a çevir
-        # 1. Tek tırnakları çift tırnak yap (kaçışlı olanları koru)
-        content = re.sub(r"(?<!\\)'", '"', content)
-        
-        # 2. undefined → null
-        content = content.replace('undefined', 'null')
-        
-        # 3. Son kontroller
-        content = content.strip()
-        
-        # 4. JSON parse et
-        adult_data = json.loads(content)
+        # Doğrudan JSON parse et (artık const yok)
+        adult_data = response.json()
         
         # Sadece data array'ini al
         channels = adult_data.get('data', [])
@@ -87,24 +61,6 @@ def fetch_adult_channels():
         
         print(f"✅ {len(channels)} yetişkin kanalı çekildi")
         return channels
-    except json.JSONDecodeError as e:
-        print(f"❌ JSON parse hatası: {e}")
-        print(f"📄 Hata alınan verinin ilk 500 karakteri:")
-        print(content[:500])
-        # JSON'u düzeltmeye çalış
-        try:
-            # Bozuk JSON'u düzeltmek için deneyelim
-            fixed_content = re.sub(r'(\w+):', r'"\1":', content)
-            fixed_content = re.sub(r'([{,])\s*([a-zA-Z0-9_]+)\s*:', r'\1"\2":', fixed_content)
-            adult_data = json.loads(fixed_content)
-            channels = adult_data.get('data', [])
-            for i, channel in enumerate(channels):
-                if not channel.get('tvgId'):
-                    channel['tvgId'] = f"adult_{i+1}"
-            print(f"✅ Düzeltilmiş JSON ile {len(channels)} yetişkin kanalı çekildi")
-            return channels
-        except:
-            return []
     except Exception as e:
         print(f"❌ Adult kanalları hatası: {e}")
         return []
@@ -115,7 +71,6 @@ def generate_js_file(normal_channels, adult_channels):
         print("❌ Normal kanal verisi eksik, dosya oluşturulmadı")
         return False
     
-    # Adult kanalları boşsa uyarı ver ama devam et
     if not adult_channels:
         print("⚠️ Adult kanal listesi boş, sadece normal kanallar kaydedilecek")
     
