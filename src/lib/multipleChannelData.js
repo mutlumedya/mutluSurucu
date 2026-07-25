@@ -1136,353 +1136,353 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Exxxotica",
-        "tvgId": "adult-1784912450",
+        "tvgId": "kanal_1784912450",
         "tvgName": "Exxxotica",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-1784912450.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912450.m3u8"
     },
     {
         "duration": -1,
         "title": "Playboy TV",
-        "tvgId": "adult-3928475612",
+        "tvgId": "kanal_3928475612",
         "tvgName": "Playboy TV",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-3928475612.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_3928475612.m3u8"
     },
     {
         "duration": -1,
         "title": "Hustler TV",
-        "tvgId": "adult-8473920156",
+        "tvgId": "kanal_8473920156",
         "tvgName": "Hustler TV",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-8473920156.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_8473920156.m3u8"
     },
     {
         "duration": -1,
         "title": "Super One HD",
-        "tvgId": "adult-5619283740",
+        "tvgId": "kanal_5619283740",
         "tvgName": "Super One HD",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-5619283740.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_5619283740.m3u8"
     },
     {
         "duration": -1,
         "title": "Private HD",
-        "tvgId": "adult-2039485761",
+        "tvgId": "kanal_2039485761",
         "tvgName": "Private HD",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-2039485761.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_2039485761.m3u8"
     },
     {
         "duration": -1,
         "title": "Digital Desire",
-        "tvgId": "adult-9182736450",
+        "tvgId": "kanal_9182736450",
         "tvgName": "Digital Desire",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-9182736450.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_9182736450.m3u8"
     },
     {
         "duration": -1,
         "title": "Brazzers TV Europe",
-        "tvgId": "adult-6748392015",
+        "tvgId": "kanal_6748392015",
         "tvgName": "Brazzers TV Europe",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-6748392015.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_6748392015.m3u8"
     },
     {
         "duration": -1,
         "title": "Dorcel TV HD",
-        "tvgId": "adult-1526378490",
+        "tvgId": "kanal_1526378490",
         "tvgName": "Dorcel TV HD",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-1526378490.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1526378490.m3u8"
     },
     {
         "duration": -1,
         "title": "Eroxxx HD",
-        "tvgId": "adult-8392017465",
+        "tvgId": "kanal_8392017465",
         "tvgName": "Eroxxx HD",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-8392017465.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_8392017465.m3u8"
     },
     {
         "duration": -1,
         "title": "Erox",
-        "tvgId": "adult-4051627389",
+        "tvgId": "kanal_4051627389",
         "tvgName": "Erox",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-4051627389.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_4051627389.m3u8"
     },
     {
         "duration": -1,
         "title": "Extasy TV",
-        "tvgId": "adult-7263948105",
+        "tvgId": "kanal_7263948105",
         "tvgName": "Extasy TV",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-7263948105.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_7263948105.m3u8"
     },
     {
         "duration": -1,
         "title": "Babes TV",
-        "tvgId": "adult-9183645720",
+        "tvgId": "kanal_9183645720",
         "tvgName": "Babes TV",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-9183645720.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_9183645720.m3u8"
     },
     {
         "duration": -1,
         "title": "Leo TV",
-        "tvgId": "adult-2638471905",
+        "tvgId": "kanal_2638471905",
         "tvgName": "Leo TV",
         "tvgLogo": "https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-18-2048x902.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-2638471905.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_2638471905.m3u8"
     },
     {
         "duration": -1,
         "title": "Reality Kings TV",
-        "tvgId": "adult-5901827364",
+        "tvgId": "kanal_5901827364",
         "tvgName": "Reality Kings TV",
         "tvgLogo": "https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-5901827364.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_5901827364.m3u8"
     },
     {
         "duration": -1,
         "title": "PassionXXX HD",
-        "tvgId": "adult-8472619305",
+        "tvgId": "kanal_8472619305",
         "tvgName": "PassionXXX HD",
         "tvgLogo": "https://iptvx.one/picons/passionxxx.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-8472619305.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_8472619305.m3u8"
     },
     {
         "duration": -1,
         "title": "Porn Classic",
-        "tvgId": "adult-1364928570",
+        "tvgId": "kanal_1364928570",
         "tvgName": "Porn Classic",
         "tvgLogo": "https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-1364928570.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1364928570.m3u8"
     },
     {
         "duration": -1,
         "title": "Miami TV",
-        "tvgId": "adult-6728193045",
+        "tvgId": "kanal_6728193045",
         "tvgName": "Miami TV",
         "tvgLogo": "http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s1600/miami-tv-logo-gif2_design.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-6728193045.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_6728193045.m3u8"
     },
     {
         "duration": -1,
         "title": "Rouge TV",
-        "tvgId": "adult-4590281736",
+        "tvgId": "kanal_4590281736",
         "tvgName": "Rouge TV",
         "tvgLogo": "https://yt3.googleusercontent.com/ytc/AGIKgqORiRitDqn2R8PSKF7BXUHjId1B0eJwES7WCjOjeQ=s900-c-k-c0x00ffffff-no-rj",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-4590281736.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_4590281736.m3u8"
     },
     {
         "duration": -1,
         "title": "Eropuls DE 18+",
-        "tvgId": "adult-9817364520",
+        "tvgId": "kanal_9817364520",
         "tvgName": "Eropuls DE 18+",
         "tvgLogo": "https://www.eropuls.de/out/flow/img/shoplogo.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-9817364520.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_9817364520.m3u8"
     },
     {
         "duration": -1,
         "title": "Rough",
-        "tvgId": "adult-3048571926",
+        "tvgId": "kanal_3048571926",
         "tvgName": "Rough",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-3048571926.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_3048571926.m3u8"
     },
     {
         "duration": -1,
         "title": "Blonde",
-        "tvgId": "adult-8172639405",
+        "tvgId": "kanal_8172639405",
         "tvgName": "Blonde",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-8172639405.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_8172639405.m3u8"
     },
     {
         "duration": -1,
         "title": "Anal",
-        "tvgId": "adult-5628391740",
+        "tvgId": "kanal_5628391740",
         "tvgName": "Anal",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-5628391740.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_5628391740.m3u8"
     },
     {
         "duration": -1,
         "title": "Live Cams",
-        "tvgId": "adult-1902837465",
+        "tvgId": "kanal_1902837465",
         "tvgName": "Live Cams",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-1902837465.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1902837465.m3u8"
     },
     {
         "duration": -1,
         "title": "Russian",
-        "tvgId": "adult-7382910465",
+        "tvgId": "kanal_7382910465",
         "tvgName": "Russian",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-7382910465.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_7382910465.m3u8"
     },
     {
         "duration": -1,
         "title": "Threesome",
-        "tvgId": "adult-4256178390",
+        "tvgId": "kanal_4256178390",
         "tvgName": "Threesome",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-4256178390.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_4256178390.m3u8"
     },
     {
         "duration": -1,
         "title": "Hardcore",
-        "tvgId": "adult-8601923745",
+        "tvgId": "kanal_8601923745",
         "tvgName": "Hardcore",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-8601923745.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_8601923745.m3u8"
     },
     {
         "duration": -1,
         "title": "Teen",
-        "tvgId": "adult-3174859206",
+        "tvgId": "kanal_3174859206",
         "tvgName": "Teen",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-3174859206.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_3174859206.m3u8"
     },
     {
         "duration": -1,
         "title": "Blowjob",
-        "tvgId": "adult-6940281735",
+        "tvgId": "kanal_6940281735",
         "tvgName": "Blowjob",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-6940281735.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_6940281735.m3u8"
     },
     {
         "duration": -1,
         "title": "POV",
-        "tvgId": "adult-5283917460",
+        "tvgId": "kanal_5283917460",
         "tvgName": "POV",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-5283917460.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_5283917460.m3u8"
     },
     {
         "duration": -1,
         "title": "Latina",
-        "tvgId": "adult-9017362845",
+        "tvgId": "kanal_9017362845",
         "tvgName": "Latina",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-9017362845.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_9017362845.m3u8"
     },
     {
         "duration": -1,
         "title": "Interracial",
-        "tvgId": "adult-2468193750",
+        "tvgId": "kanal_2468193750",
         "tvgName": "Interracial",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-2468193750.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_2468193750.m3u8"
     },
     {
         "duration": -1,
         "title": "Big Ass",
-        "tvgId": "adult-7839201654",
+        "tvgId": "kanal_7839201654",
         "tvgName": "Big Ass",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-7839201654.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_7839201654.m3u8"
     },
     {
         "duration": -1,
         "title": "Fetish",
-        "tvgId": "adult-1592837460",
+        "tvgId": "kanal_1592837460",
         "tvgName": "Fetish",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-1592837460.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1592837460.m3u8"
     },
     {
         "duration": -1,
         "title": "Big Tits",
-        "tvgId": "adult-6401928375",
+        "tvgId": "kanal_6401928375",
         "tvgName": "Big Tits",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-6401928375.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_6401928375.m3u8"
     },
     {
         "duration": -1,
         "title": "Big Dick",
-        "tvgId": "adult-3758291046",
+        "tvgId": "kanal_3758291046",
         "tvgName": "Big Dick",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-3758291046.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_3758291046.m3u8"
     },
     {
         "duration": -1,
         "title": "MILF",
-        "tvgId": "adult-8927465031",
+        "tvgId": "kanal_8927465031",
         "tvgName": "MILF",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-8927465031.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_8927465031.m3u8"
     },
     {
         "duration": -1,
         "title": "Pornstar",
-        "tvgId": "adult-2183749650",
+        "tvgId": "kanal_2183749650",
         "tvgName": "Pornstar",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-2183749650.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_2183749650.m3u8"
     },
     {
         "duration": -1,
         "title": "Lesbian",
-        "tvgId": "adult-7061923845",
+        "tvgId": "kanal_7061923845",
         "tvgName": "Lesbian",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-7061923845.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_7061923845.m3u8"
     },
     {
         "duration": -1,
         "title": "Cuckold",
-        "tvgId": "adult-4839201756",
+        "tvgId": "kanal_4839201756",
         "tvgName": "Cuckold",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
-        "url": "https://gizli.mutlumedya.workers.dev/adult-4839201756.m3u8"
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_4839201756.m3u8"
     }
 ]
 };
