@@ -4,12 +4,20 @@ import os
 import sys
 from datetime import datetime
 
+# ============================================
+# YAPILANDIRMA
+# ============================================
 FIREBASE_URL = 'https://mutluapk-803a4-default-rtdb.firebaseio.com/channels.json'
 ADULT_URL = 'https://yavuzok.vercel.app/xxx.json'
 OUTPUT_FILE = 'src/lib/multipleChannelData.js'
 WORKER_URL = 'https://gizli.mutlumedya.workers.dev'
 
+# ============================================
+# FONKSİYONLAR
+# ============================================
+
 def fetch_channels_from_firebase():
+    """Firebase'den normal kanalları çek"""
     try:
         response = requests.get(FIREBASE_URL, timeout=10)
         response.raise_for_status()
@@ -35,33 +43,53 @@ def fetch_channels_from_firebase():
         return None
 
 def fetch_adult_channels():
+    """Adult IPTV kanallarını çek - ID'leri düzenle"""
     try:
         response = requests.get(ADULT_URL, timeout=10)
         response.raise_for_status()
         adult_data = response.json()
         channels = adult_data.get('data', [])
         
-        # 🔥 Her adult kanala benzersiz tvgId ver
-        for i, channel in enumerate(channels):
-            if not channel.get('tvgId') or channel.get('tvgId') == 'no_epg_xxx':
-                # title'dan slug oluştur
-                title_slug = channel.get('title', f'adult_{i}').lower().replace(' ', '-').replace('tv', '').strip('-')
-                channel['tvgId'] = f"adult_{title_slug}"
-                print(f"   🔄 Adult kanal ID: {channel['title']} → {channel['tvgId']}")
+        # 🔥 Adult kanallarını düzenle
+        for channel in channels:
+            # Mevcut tvgId'yi al (adult_milf, adult_pornstar vb.)
+            old_tvg_id = channel.get('tvgId', '')
+            
+            # Eğer tvgId yoksa veya no_epg_xxx ise title'dan oluştur
+            if not old_tvg_id or old_tvg_id == 'no_epg_xxx':
+                # Title'dan temiz ID oluştur
+                base_id = channel.get('title', 'unknown')
+                base_id = base_id.lower().replace(' ', '-').replace('tv', '').strip('-')
+                # Özel karakterleri temizle
+                base_id = ''.join(c for c in base_id if c.isalnum() or c == '-')
+                new_tvg_id = f"adult-{base_id}"
+            else:
+                # Mevcut tvgId'yi kullan ama başına adult- ekle (zaten yoksa)
+                if not old_tvg_id.startswith('adult-'):
+                    new_tvg_id = f"adult-{old_tvg_id}"
+                else:
+                    new_tvg_id = old_tvg_id
+            
+            # 🔥 URL'yi Worker'a yönlendir
+            channel['url'] = f"{WORKER_URL}/{new_tvg_id}.m3u8"
+            channel['tvgId'] = new_tvg_id
+            
+            print(f"   🔄 Adult: {channel['title']} → {new_tvg_id}")
         
-        print(f"✅ {len(channels)} yetişkin kanalı çekildi")
+        print(f"✅ {len(channels)} yetişkin kanalı çekildi ve düzenlendi")
         return channels
     except Exception as e:
         print(f"❌ Adult kanalları hatası: {e}")
         return []
 
 def generate_js_file(normal_channels, adult_channels):
+    """JavaScript dosyasını oluştur"""
     if normal_channels is None:
-        print("❌ Normal kanal verisi eksik")
+        print("❌ Normal kanal verisi eksik, dosya oluşturulmadı")
         return False
     
     if not adult_channels:
-        print("⚠️ Adult kanal listesi boş")
+        print("⚠️ Adult kanal listesi boş, sadece normal kanallar kaydedilecek")
     
     js_content = f"""const CODE_CLOUD_BD = {{
     name: "CodeCloudBD",
@@ -87,31 +115,47 @@ export {{ CODE_CLOUD_BD, ADULT_IPTV }};"""
     
     try:
         os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+        
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             f.write(js_content)
-        print(f"✅ Dosya oluşturuldu: {OUTPUT_FILE}")
-        print(f"📊 Toplam {len(normal_channels)} normal + {len(adult_channels)} yetişkin")
+        
+        print(f"✅ Dosya oluşturuldu/güncellendi: {OUTPUT_FILE}")
+        print(f"📊 Toplam {len(normal_channels)} normal + {len(adult_channels)} yetişkin = {len(normal_channels) + len(adult_channels)} kanal")
         return True
     except Exception as e:
         print(f"❌ Dosya yazma hatası: {e}")
         return False
 
 def sync_channels():
+    """Ana senkronizasyon fonksiyonu"""
     print(f"\n🔄 Senkronizasyon başladı: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    normal = fetch_channels_from_firebase()
-    adult = fetch_adult_channels()
-    if normal is not None:
-        success = generate_js_file(normal, adult if adult else [])
+    
+    normal_channels = fetch_channels_from_firebase()
+    adult_channels = fetch_adult_channels()
+    
+    if normal_channels is not None:
+        success = generate_js_file(normal_channels, adult_channels if adult_channels else [])
         if success:
-            print("✅ Senkronizasyon tamamlandı")
+            print("✅ Senkronizasyon başarıyla tamamlandı")
             return True
-    print("❌ Senkronizasyon başarısız")
-    return False
+        else:
+            print("❌ Dosya oluşturulamadı")
+            return False
+    else:
+        print("❌ Senkronizasyon başarısız (normal kanallar alınamadı)")
+        return False
+
+# ============================================
+# ÇALIŞTIRMA
+# ============================================
 
 if __name__ == "__main__":
     try:
         success = sync_channels()
-        sys.exit(0 if success else 1)
+        if success:
+            sys.exit(0)
+        else:
+            sys.exit(1)
     except Exception as e:
-        print(f"❌ Hata: {e}")
+        print(f"❌ Beklenmeyen hata: {e}")
         sys.exit(1)
