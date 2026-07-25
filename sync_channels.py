@@ -43,7 +43,7 @@ def fetch_channels_from_firebase():
         return None
 
 def fetch_adult_channels():
-    """Adult IPTV kanallarını çek - ID'leri düzenle"""
+    """Adult IPTV kanallarını çek - ID'leri adult- prefix ile düzenle"""
     try:
         response = requests.get(ADULT_URL, timeout=10)
         response.raise_for_status()
@@ -52,20 +52,21 @@ def fetch_adult_channels():
         
         # 🔥 Adult kanallarını düzenle
         for channel in channels:
-            # Mevcut tvgId'yi al (adult_milf, adult_pornstar vb.)
             old_tvg_id = channel.get('tvgId', '')
             
-            # Eğer tvgId yoksa veya no_epg_xxx ise title'dan oluştur
+            # Eğer ID boş veya no_epg_xxx ise title'dan oluştur
             if not old_tvg_id or old_tvg_id == 'no_epg_xxx':
-                # Title'dan temiz ID oluştur
                 base_id = channel.get('title', 'unknown')
                 base_id = base_id.lower().replace(' ', '-').replace('tv', '').strip('-')
-                # Özel karakterleri temizle
                 base_id = ''.join(c for c in base_id if c.isalnum() or c == '-')
                 new_tvg_id = f"adult-{base_id}"
             else:
-                # Mevcut tvgId'yi kullan ama başına adult- ekle (zaten yoksa)
-                if not old_tvg_id.startswith('adult-'):
+                # Mevcut ID'yi kullan ama başına adult- ekle (zaten yoksa)
+                if old_tvg_id.startswith('kanal_'):
+                    # kanal_ prefix'ini kaldır ve adult- ekle
+                    clean_id = old_tvg_id.replace('kanal_', '')
+                    new_tvg_id = f"adult-{clean_id}"
+                elif not old_tvg_id.startswith('adult-'):
                     new_tvg_id = f"adult-{old_tvg_id}"
                 else:
                     new_tvg_id = old_tvg_id
