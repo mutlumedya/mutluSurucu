@@ -49,6 +49,7 @@ def fetch_adult_channels():
         response = requests.get(ADULT_URL, timeout=10)
         response.raise_for_status()
         
+        # UTF-8 olarak decode et
         content = response.text
         print(f"📄 Adult verisi uzunluğu: {len(content)} karakter")
         
@@ -63,23 +64,23 @@ def fetch_adult_channels():
         if content.endswith(';'):
             content = content[:-1]
         
-        # 🔥 JavaScript object'ini JSON'a çevir - tek tırnakları çift tırnak yap
-        # Önce tek tırnakları çift tırnak yap (ama kaçışlı olanları bozma)
+        # 🔥 JavaScript object'ini JSON'a çevir
+        # 1. Tek tırnakları çift tırnak yap (kaçışlı olanları koru)
         content = re.sub(r"(?<!\\)'", '"', content)
         
-        # 🔥 undefined ve null düzeltmeleri
+        # 2. undefined → null
         content = content.replace('undefined', 'null')
         
-        # 🔥 Son kontroller
+        # 3. Son kontroller
         content = content.strip()
         
-        # JSON'u parse et
+        # 4. JSON parse et
         adult_data = json.loads(content)
         
         # Sadece data array'ini al
         channels = adult_data.get('data', [])
         
-        # Her kanala tvgId ekle
+        # Her kanala tvgId ekle (yoksa)
         for i, channel in enumerate(channels):
             if not channel.get('tvgId'):
                 channel['tvgId'] = f"adult_{i+1}"
@@ -90,7 +91,20 @@ def fetch_adult_channels():
         print(f"❌ JSON parse hatası: {e}")
         print(f"📄 Hata alınan verinin ilk 500 karakteri:")
         print(content[:500])
-        return []
+        # JSON'u düzeltmeye çalış
+        try:
+            # Bozuk JSON'u düzeltmek için deneyelim
+            fixed_content = re.sub(r'(\w+):', r'"\1":', content)
+            fixed_content = re.sub(r'([{,])\s*([a-zA-Z0-9_]+)\s*:', r'\1"\2":', fixed_content)
+            adult_data = json.loads(fixed_content)
+            channels = adult_data.get('data', [])
+            for i, channel in enumerate(channels):
+                if not channel.get('tvgId'):
+                    channel['tvgId'] = f"adult_{i+1}"
+            print(f"✅ Düzeltilmiş JSON ile {len(channels)} yetişkin kanalı çekildi")
+            return channels
+        except:
+            return []
     except Exception as e:
         print(f"❌ Adult kanalları hatası: {e}")
         return []
