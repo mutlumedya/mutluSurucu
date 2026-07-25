@@ -1226,7 +1226,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Extasy TV",
-        "tvgId": "adult_11",
+        "tvgId": "adult_extasy",
         "tvgName": "Extasy TV",
         "tvgLogo": "",
         "groupTitle": "Взрослые",
@@ -1244,7 +1244,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Leo TV",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_leo",
         "tvgName": "Leo TV",
         "tvgLogo": "https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-18-2048x902.png",
         "groupTitle": "Взрослые",
@@ -1253,7 +1253,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Reality Kings TV",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_reality-kings",
         "tvgName": "Reality Kings TV",
         "tvgLogo": "https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png",
         "groupTitle": "Взрослые",
@@ -1271,7 +1271,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Porn Classic",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_porn-classic",
         "tvgName": "Porn Classic",
         "tvgLogo": "https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg",
         "groupTitle": "Взрослые",
@@ -1280,7 +1280,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Miami TV",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_miami",
         "tvgName": "Miami TV",
         "tvgLogo": "http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s1600/miami-tv-logo-gif2_design.png",
         "groupTitle": "Взрослые",
@@ -1289,7 +1289,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Rouge TV",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_rouge",
         "tvgName": "Rouge TV",
         "tvgLogo": "https://yt3.googleusercontent.com/ytc/AGIKgqORiRitDqn2R8PSKF7BXUHjId1B0eJwES7WCjOjeQ=s900-c-k-c0x00ffffff-no-rj",
         "groupTitle": "Взрослые",
@@ -1298,7 +1298,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Eropuls DE 18+",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_eropuls-de-18+",
         "tvgName": "Eropuls DE 18+",
         "tvgLogo": "https://www.eropuls.de/out/flow/img/shoplogo.png",
         "groupTitle": "Взрослые",
@@ -1307,7 +1307,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Rough",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_rough",
         "tvgName": "Rough",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1316,7 +1316,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Blonde",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_blonde",
         "tvgName": "Blonde",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1325,7 +1325,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Anal",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_anal",
         "tvgName": "Anal",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1334,7 +1334,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Live Cams",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_live-cams",
         "tvgName": "Live Cams",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1343,7 +1343,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Russian",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_russian",
         "tvgName": "Russian",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1352,7 +1352,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Threesome",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_threesome",
         "tvgName": "Threesome",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1361,7 +1361,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Hardcore",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_hardcore",
         "tvgName": "Hardcore",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1370,7 +1370,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Teen",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_teen",
         "tvgName": "Teen",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1379,7 +1379,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Blowjob",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_blowjob",
         "tvgName": "Blowjob",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1388,7 +1388,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "POV",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_pov",
         "tvgName": "POV",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1397,7 +1397,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Latina",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_latina",
         "tvgName": "Latina",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1406,7 +1406,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Interracial",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_interracial",
         "tvgName": "Interracial",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1415,7 +1415,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Big Ass",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_big-ass",
         "tvgName": "Big Ass",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1424,7 +1424,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Fetish",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_fetish",
         "tvgName": "Fetish",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1433,7 +1433,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Big Tits",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_big-tits",
         "tvgName": "Big Tits",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1442,7 +1442,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Big Dick",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_big-dick",
         "tvgName": "Big Dick",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1451,7 +1451,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "MILF",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_milf",
         "tvgName": "MILF",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1460,7 +1460,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Pornstar",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_pornstar",
         "tvgName": "Pornstar",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1469,7 +1469,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Lesbian",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_lesbian",
         "tvgName": "Lesbian",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
@@ -1478,7 +1478,7 @@ const ADULT_IPTV = {
     {
         "duration": -1,
         "title": "Cuckold",
-        "tvgId": "no_epg_xxx",
+        "tvgId": "adult_cuckold",
         "tvgName": "Cuckold",
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
