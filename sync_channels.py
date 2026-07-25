@@ -43,41 +43,33 @@ def fetch_channels_from_firebase():
         return None
 
 def fetch_adult_channels():
-    """Adult IPTV kanallarını çek - ID'leri adult- prefix ile düzenle"""
+    """Adult IPTV kanallarını çek - Kanal ID ile"""
     try:
         response = requests.get(ADULT_URL, timeout=10)
         response.raise_for_status()
         adult_data = response.json()
         channels = adult_data.get('data', [])
         
-        # 🔥 Adult kanallarını düzenle
+        # 🔥 Adult kanallarını düzenle - Kanal ID olarak kullan
         for channel in channels:
-            old_tvg_id = channel.get('tvgId', '')
+            # Mevcut tvgId'yi al (zaten kanal_ prefix'li)
+            channel_id = channel.get('tvgId', '')
             
-            # Eğer ID boş veya no_epg_xxx ise title'dan oluştur
-            if not old_tvg_id or old_tvg_id == 'no_epg_xxx':
+            # Eğer ID yoksa veya geçersizse oluştur
+            if not channel_id or channel_id == 'no_epg_xxx':
+                # Title'dan benzersiz ID oluştur
                 base_id = channel.get('title', 'unknown')
                 base_id = base_id.lower().replace(' ', '-').replace('tv', '').strip('-')
                 base_id = ''.join(c for c in base_id if c.isalnum() or c == '-')
-                new_tvg_id = f"adult-{base_id}"
-            else:
-                # Mevcut ID'yi kullan ama başına adult- ekle (zaten yoksa)
-                if old_tvg_id.startswith('kanal_'):
-                    # kanal_ prefix'ini kaldır ve adult- ekle
-                    clean_id = old_tvg_id.replace('kanal_', '')
-                    new_tvg_id = f"adult-{clean_id}"
-                elif not old_tvg_id.startswith('adult-'):
-                    new_tvg_id = f"adult-{old_tvg_id}"
-                else:
-                    new_tvg_id = old_tvg_id
+                channel_id = f"kanal_{abs(hash(base_id)) % 10000000000:010d}"
+                channel['tvgId'] = channel_id
             
             # 🔥 URL'yi Worker'a yönlendir
-            channel['url'] = f"{WORKER_URL}/{new_tvg_id}.m3u8"
-            channel['tvgId'] = new_tvg_id
+            channel['url'] = f"{WORKER_URL}/{channel_id}.m3u8"
             
-            print(f"   🔄 Adult: {channel['title']} → {new_tvg_id}")
+            print(f"   🔄 Adult: {channel['title']} → {channel_id}")
         
-        print(f"✅ {len(channels)} yetişkin kanalı çekildi ve düzenlendi")
+        print(f"✅ {len(channels)} yetişkin kanalı çekildi (kanal ID olarak)")
         return channels
     except Exception as e:
         print(f"❌ Adult kanalları hatası: {e}")
