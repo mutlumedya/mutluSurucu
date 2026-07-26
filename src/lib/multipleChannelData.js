@@ -1121,6 +1121,303 @@ const CODE_CLOUD_BD = {
         "tvgLogo": "https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003212.png",
         "groupTitle": "ÇOCUK",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912452574.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "2. Vizon 4K",
+        "tvgId": "kanal_1785034487814",
+        "tvgName": "2. Vizon 4K",
+        "tvgLogo": "https://r.resimlink.com/NV5e_3Rc.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034487814.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "5. Vizon Gold",
+        "tvgId": "kanal_1785034488170",
+        "tvgName": "5. Vizon Gold",
+        "tvgLogo": "https://r.resimlink.com/5OPiqMeko3ja.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034488170.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "8. Vizon Komedi",
+        "tvgId": "kanal_1785034488465",
+        "tvgName": "8. Vizon Komedi",
+        "tvgLogo": "https://r.resimlink.com/Hx2okvEADmh.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034488465.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "13. Movie Vizyon",
+        "tvgId": "kanal_1785034488752",
+        "tvgName": "13. Movie Vizyon",
+        "tvgLogo": "https://resmim.net/cdn/2026/03/30/CjNxaZ.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034488752.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "14. Movie Yerli",
+        "tvgId": "kanal_1785034489011",
+        "tvgName": "14. Movie Yerli",
+        "tvgLogo": "https://resmim.net/cdn/2026/03/30/CjNAKk.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034489011.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "17. DiziBox",
+        "tvgId": "kanal_1785034489277",
+        "tvgName": "17. DiziBox",
+        "tvgLogo": "https://r.resimlink.com/DIHrxMFfoTJ4.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034489277.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "18. Dizi TV",
+        "tvgId": "kanal_1785034489566",
+        "tvgName": "18. Dizi TV",
+        "tvgLogo": "https://resmim.net/cdn/2026/03/01/wqZXSI.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034489566.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "20. Vizon Show",
+        "tvgId": "kanal_1785034489832",
+        "tvgName": "20. Vizon Show",
+        "tvgLogo": "https://r.resimlink.com/zPSVRIW.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034489832.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "43. Star Dramas",
+        "tvgId": "kanal_1785034490133",
+        "tvgName": "43. Star Dramas",
+        "tvgLogo": "https://r.resimlink.com/kAyb7Xr.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034490133.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "44. Star Series",
+        "tvgId": "kanal_1785034490415",
+        "tvgName": "44. Star Series",
+        "tvgLogo": "https://r.resimlink.com/J5DUP.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034490415.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "46. Cine 5 HD",
+        "tvgId": "kanal_1785034490689",
+        "tvgName": "46. Cine 5 HD",
+        "tvgLogo": "https://resmim.net/cdn/2026/02/27/wUZbvZ.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034490689.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "49. Cine 6",
+        "tvgId": "kanal_1785034490966",
+        "tvgName": "49. Cine 6",
+        "tvgLogo": "https://r.resimlink.com/jYrd6bl3I.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034490966.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "50. Yansıma Sinema",
+        "tvgId": "kanal_1785034491246",
+        "tvgName": "50. Yansıma Sinema",
+        "tvgLogo": "https://resmim.net/cdn/2026/06/16/CIcPbW.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034491246.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "62. Vizon Haber",
+        "tvgId": "kanal_1785034491525",
+        "tvgName": "62. Vizon Haber",
+        "tvgLogo": "https://r.resimlink.com/GDgxc-.png",
+        "groupTitle": "Spor",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034491525.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "78. Vizon Spor 2",
+        "tvgId": "kanal_1785034491789",
+        "tvgName": "78. Vizon Spor 2",
+        "tvgLogo": "https://r.resimlink.com/0KtzRU24.png",
+        "groupTitle": "Spor",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034491789.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "79. Star Sports",
+        "tvgId": "kanal_1785034492089",
+        "tvgName": "79. Star Sports",
+        "tvgLogo": "https://r.resimlink.com/_ftezFyAPOJq.png",
+        "groupTitle": "Spor",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034492089.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "80. NT Spor",
+        "tvgId": "kanal_1785034492448",
+        "tvgName": "80. NT Spor",
+        "tvgLogo": "https://resmim.net/cdn/2026/07/18/EfQ7uD.png",
+        "groupTitle": "Spor",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034492448.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "94. Trace Sports",
+        "tvgId": "kanal_1785034492715",
+        "tvgName": "94. Trace Sports",
+        "tvgLogo": "https://resmim.net/cdn/2026/04/20/Cg2lXI.png",
+        "groupTitle": "Spor",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034492715.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "108. Şaban TV",
+        "tvgId": "kanal_1785034492998",
+        "tvgName": "108. Şaban TV",
+        "tvgLogo": "https://resmim.net/cdn/2026/04/18/C3viGQ.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034492998.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "110. STV",
+        "tvgId": "kanal_1785034493269",
+        "tvgName": "110. STV",
+        "tvgLogo": "https://resmim.net/cdn/2026/03/30/CXUpIb.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034493269.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "111. Flux TV",
+        "tvgId": "kanal_1785034493525",
+        "tvgName": "111. Flux TV",
+        "tvgLogo": "https://resmim.net/cdn/2026/06/29/CamBAc.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034493525.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "112. Deniz TV",
+        "tvgId": "kanal_1785034493829",
+        "tvgName": "112. Deniz TV",
+        "tvgLogo": "https://resmim.net/cdn/2026/04/30/CbQMEo.png",
+        "groupTitle": "Belgesel & Yaşam",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034493829.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "133. Nature Time",
+        "tvgId": "kanal_1785034494083",
+        "tvgName": "133. Nature Time",
+        "tvgLogo": "https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",
+        "groupTitle": "Belgesel & Yaşam",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034494083.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "134. Travel 4K",
+        "tvgId": "kanal_1785034494369",
+        "tvgName": "134. Travel 4K",
+        "tvgLogo": "https://resmim.net/cdn/2026/05/05/CoPeiM.png",
+        "groupTitle": "Belgesel & Yaşam",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034494369.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "177. TV 5",
+        "tvgId": "kanal_1785034494645",
+        "tvgName": "177. TV 5",
+        "tvgLogo": "https://resmim.net/cdn/2026/07/25/EENxYK.png",
+        "groupTitle": "Belgesel & Yaşam",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034494645.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "300. Vizon Çocuk",
+        "tvgId": "kanal_1785034494917",
+        "tvgName": "300. Vizon Çocuk",
+        "tvgLogo": "",
+        "groupTitle": "Çocuk",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034494917.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "301. Filmbox Çocuk",
+        "tvgId": "kanal_1785034495676",
+        "tvgName": "301. Filmbox Çocuk",
+        "tvgLogo": "",
+        "groupTitle": "Çocuk",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034495676.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "302. Star Cartoons",
+        "tvgId": "kanal_1785034495922",
+        "tvgName": "302. Star Cartoons",
+        "tvgLogo": "https://resmim.net/cdn/2026/04/27/CYd332.png",
+        "groupTitle": "Film & Dizi",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034495922.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "312. FX Cartoon",
+        "tvgId": "kanal_1785034496200",
+        "tvgName": "312. FX Cartoon",
+        "tvgLogo": "https://resmim.net/cdn/2026/03/30/CXvdax.png",
+        "groupTitle": "Çocuk",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034496200.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "320. Vizon Müzik",
+        "tvgId": "kanal_1785034496481",
+        "tvgName": "320. Vizon Müzik",
+        "tvgLogo": "https://r.resimlink.com/35bOcIDi6m.png",
+        "groupTitle": "Çocuk",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034496481.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "504. BBC Series",
+        "tvgId": "kanal_1785034496766",
+        "tvgName": "504. BBC Series",
+        "tvgLogo": "https://r.resimlink.com/X4u_oUF.png",
+        "groupTitle": "Yabancı",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034496766.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "505. FX Movies",
+        "tvgId": "kanal_1785034497054",
+        "tvgName": "505. FX Movies",
+        "tvgLogo": "https://r.resimlink.com/oCm24hIejP.png",
+        "groupTitle": "Yabancı",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034497054.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "507. Show Plus",
+        "tvgId": "kanal_1785034497326",
+        "tvgName": "507. Show Plus",
+        "tvgLogo": "https://r.resimlink.com/wVzqXfSt79E2.png",
+        "groupTitle": "Yabancı",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034497326.m3u8"
     }
 ]
 };
