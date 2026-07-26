@@ -8,10 +8,10 @@ const CODE_CLOUD_BD = {
     data: [
     {
         "duration": -1,
-        "title": "beIN Sports 1-Gav",
+        "title": "Net Spor",
         "tvgId": "kanal_1784912418688",
-        "tvgName": "beIN Sports 1-Gav",
-        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/bein.png",
+        "tvgName": "Net Spor",
+        "tvgLogo": "https://resmim.net/cdn/2026/07/18/EfQ7uD.png",
         "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912418688.m3u8"
     },
