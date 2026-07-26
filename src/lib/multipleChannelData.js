@@ -1418,6 +1418,15 @@ const CODE_CLOUD_BD = {
         "tvgLogo": "https://r.resimlink.com/wVzqXfSt79E2.png",
         "groupTitle": "Yabancı",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034497326.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Cocuk tv",
+        "tvgId": "kanal_1785045094917",
+        "tvgName": "Cocuk tv",
+        "tvgLogo": "",
+        "groupTitle": "ÇOCUK",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785045094917.m3u8"
     }
 ]
 };
