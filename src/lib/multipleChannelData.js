@@ -4,7 +4,7 @@ const CODE_CLOUD_BD = {
     source: "https://stream.codecloud.bd/",
     active: true,
     isAdult: false,
-    copyright: "We do not host or stream any content. All streams are publicly available. This service is provided free of charge for entertainment purposes only. By using this service, you agree to release us from all liability.",
+    copyright: "We do not host or stream any content. All streams are publicly available.",
     data: [
     {
         "duration": -1,
@@ -1437,7 +1437,7 @@ const ADULT_IPTV = {
     source: "https://adultiptv.net/",
     active: true,
     isAdult: true,
-    copyright: "We do not host or stream any content. All streams are publicly available. This service is provided free of charge for entertainment purposes only. By using this service, you agree to release us from all liability.",
+    copyright: "We do not host or stream any content. All streams are publicly available.",
     data: [
     {
         "duration": -1,
