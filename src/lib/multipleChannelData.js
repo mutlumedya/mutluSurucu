@@ -1427,6 +1427,33 @@ const CODE_CLOUD_BD = {
         "tvgLogo": "",
         "groupTitle": "ÇOCUK",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785045094917.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Tv8",
+        "tvgId": "kanal_1785166969219",
+        "tvgName": "Tv8",
+        "tvgLogo": "",
+        "groupTitle": "TR_SPOR",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785166969219.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Cbc",
+        "tvgId": "kanal_1785166969558",
+        "tvgName": "Cbc",
+        "tvgLogo": "",
+        "groupTitle": "TR_SPOR",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785166969558.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "CBC SPORT",
+        "tvgId": "kanal_1785166969798",
+        "tvgName": "CBC SPORT",
+        "tvgLogo": "",
+        "groupTitle": "TR_SPOR",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785166969798.m3u8"
     }
 ]
 };
