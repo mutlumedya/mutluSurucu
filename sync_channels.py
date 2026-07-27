@@ -1,20 +1,18 @@
 # ============================================
-# sync_channels.py - GITHUB API İLE GÖNDER
+# sync_channels.py
 # ============================================
 
 import json
 import os
 import requests
 import sys
-import base64
 from datetime import datetime
 
 # ============================================
 # YAPILANDIRMA - .env.local'dan Oku
 # ============================================
 
-def load_env_local():
-    """.env.local dosyasını oku"""
+def load_env():
     try:
         env_file = '.env.local'
         if not os.path.exists(env_file):
@@ -31,23 +29,16 @@ def load_env_local():
                         os.environ[key.strip()] = value.strip()
         return True
     except Exception as e:
-        print(f"⚠️ .env.local okuma hatası: {e}")
+        print(f"⚠️ .env okuma hatası: {e}")
         return False
 
-load_env_local()
+load_env()
 
 # Değişkenleri al
 FIREBASE_URL = os.getenv('FIREBASE_URL')
 ADULT_URL = os.getenv('ADULT_URL')
 OUTPUT_FILE = os.getenv('OUTPUT_FILE', 'src/lib/multipleChannelData.js')
 WORKER_URL = os.getenv('WORKER_URL')
-
-# GitHub bilgileri
-GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
-REPO_OWNER = os.getenv('REPO_OWNER')
-REPO_NAME = os.getenv('REPO_NAME')
-FILE_PATH_IN_REPO = os.getenv('FILE_PATH_IN_REPO', 'src/lib/multipleChannelData.js')
-BRANCH = os.getenv('BRANCH', 'main')
 
 # ============================================
 # FONKSİYONLAR
@@ -146,119 +137,17 @@ export {{ CODE_CLOUD_BD, ADULT_IPTV }};"""
         print(f"❌ Dosya yazma hatası: {e}")
         return False
 
-def push_to_github_api(file_path, token, owner, repo, file_path_in_repo, branch='main'):
-    """
-    GitHub API kullanarak dosyayı repoya gönder
-    """
-    try:
-        # 1. Dosyayı oku
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-        
-        # 2. Base64 encode
-        content_base64 = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-        
-        # 3. API URL
-        api_url = f"https://api.github.com/repos/{owner}/{repo}/contents/{file_path_in_repo}"
-        
-        headers = {
-            'Authorization': f'token {token}',
-            'Accept': 'application/vnd.github.v3+json'
-        }
-        
-        # 4. Önce dosya var mı kontrol et (SHA gerekli)
-        print(f"🔍 Kontrol: {owner}/{repo}/{file_path_in_repo}")
-        response = requests.get(api_url, headers=headers)
-        
-        sha = None
-        if response.status_code == 200:
-            sha = response.json().get('sha')
-            print(f"📁 Dosya mevcut, güncellenecek (SHA: {sha[:8]}...)")
-        elif response.status_code == 404:
-            print(f"📄 Dosya yok, yeni oluşturulacak")
-        else:
-            print(f"⚠️ Beklenmeyen durum: {response.status_code}")
-        
-        # 5. Commit mesajı
-        commit_message = f"🔄 Kanal listesi güncellendi: {datetime.now().strftime('%Y-%m-%d %H:%M')}"
-        
-        # 6. Data
-        data = {
-            'message': commit_message,
-            'content': content_base64,
-            'branch': branch
-        }
-        
-        if sha:
-            data['sha'] = sha
-        
-        # 7. API'ye gönder (PUT ile güncelle/oluştur)
-        print(f"📤 GitHub'a gönderiliyor...")
-        response = requests.put(api_url, headers=headers, json=data)
-        
-        # 8. Sonuç kontrol
-        if response.status_code in [200, 201]:
-            result = response.json()
-            print(f"✅ Dosya başarıyla gönderildi!")
-            print(f"🔗 Link: {result.get('content', {}).get('html_url', '')}")
-            return True
-        else:
-            print(f"❌ GitHub API hatası: {response.status_code}")
-            print(f"📝 Hata mesajı: {response.text}")
-            return False
-            
-    except Exception as e:
-        print(f"❌ GitHub push hatası: {e}")
-        return False
-
 def sync_channels():
     """Ana senkronizasyon fonksiyonu"""
-    print(f"\n{'='*50}")
-    print(f"🔄 SENKRONİZASYON BAŞLADI: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    print(f"{'='*50}\n")
+    print(f"\n🔄 Senkronizasyon başladı: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
-    # 1. Kanalları çek
     normal_channels = fetch_channels_from_firebase()
     adult_channels = fetch_adult_channels()
     
-    if normal_channels is None:
-        print("❌ Senkronizasyon başarısız (normal kanallar alınamadı)")
-        return False
-    
-    # 2. Dosyayı oluştur
-    success = generate_js_file(normal_channels, adult_channels if adult_channels else [])
-    
-    if not success:
-        print("❌ Dosya oluşturulamadı")
-        return False
-    
-    # 3. GitHub'a gönder
-    print(f"\n📤 GitHub'a gönderiliyor...")
-    
-    # GitHub bilgilerini kontrol et
-    if not GITHUB_TOKEN:
-        print("❌ GITHUB_TOKEN tanımlı değil! .env.local'a ekleyin")
-        return False
-    
-    if not REPO_OWNER or not REPO_NAME:
-        print("❌ REPO_OWNER veya REPO_NAME tanımlı değil!")
-        return False
-    
-    # GitHub'a gönder
-    push_success = push_to_github_api(
-        OUTPUT_FILE,
-        GITHUB_TOKEN,
-        REPO_OWNER,
-        REPO_NAME,
-        FILE_PATH_IN_REPO,
-        BRANCH
-    )
-    
-    if push_success:
-        print(f"\n✅ TÜM İŞLEMLER BAŞARILI! 🎉")
-        return True
+    if normal_channels is not None:
+        return generate_js_file(normal_channels, adult_channels if adult_channels else [])
     else:
-        print(f"\n❌ GitHub gönderimi başarısız!")
+        print("❌ Senkronizasyon başarısız")
         return False
 
 # ============================================
