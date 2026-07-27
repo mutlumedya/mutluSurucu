@@ -1,16 +1,47 @@
+# ============================================
+# sync_channels.py - .env.local KULLANAN VERSİYON
+# ============================================
+
 import json
-import requests
 import os
+import requests
 import sys
 from datetime import datetime
 
 # ============================================
-# YAPILANDIRMA
+# YAPILANDIRMA - .env.local'dan Oku
 # ============================================
-FIREBASE_URL = 'https://mutluapk-803a4-default-rtdb.firebaseio.com/channels.json'
-ADULT_URL = 'https://yavuzok.vercel.app/xxx.json'
-OUTPUT_FILE = 'src/lib/multipleChannelData.js'
-WORKER_URL = 'https://gizli.mutlumedya.workers.dev'
+
+def load_env_local():
+    """.env.local dosyasını oku ve environment variables'a ekle"""
+    try:
+        env_file = '.env.local'
+        if not os.path.exists(env_file):
+            env_file = '.env'
+            if not os.path.exists(env_file):
+                return {}
+        
+        with open(env_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    if '=' in line:
+                        key, value = line.split('=', 1)
+                        os.environ[key.strip()] = value.strip()
+        
+        return True
+    except Exception as e:
+        print(f"⚠️ .env.local okuma hatası: {e}")
+        return False
+
+# .env.local'ı yükle
+load_env_local()
+
+# Değişkenleri al
+FIREBASE_URL = os.getenv('FIREBASE_URL')
+ADULT_URL = os.getenv('ADULT_URL')
+OUTPUT_FILE = os.getenv('OUTPUT_FILE', 'src/lib/multipleChannelData.js')
+WORKER_URL = os.getenv('WORKER_URL')
 
 # ============================================
 # FONKSİYONLAR
@@ -36,40 +67,33 @@ def fetch_channels_from_firebase():
                 "url": f"{WORKER_URL}/{channel_id}.m3u8"
             })
         
-        print(f"✅ {len(channels)} normal kanal Firebase'den çekildi")
+        print(f"✅ {len(channels)} normal kanal çekildi")
         return channels
     except Exception as e:
         print(f"❌ Firebase hatası: {e}")
         return None
 
 def fetch_adult_channels():
-    """Adult IPTV kanallarını çek - Kanal ID ile"""
+    """Adult IPTV kanallarını çek"""
     try:
         response = requests.get(ADULT_URL, timeout=10)
         response.raise_for_status()
         adult_data = response.json()
         channels = adult_data.get('data', [])
         
-        # 🔥 Adult kanallarını düzenle - Kanal ID olarak kullan
         for channel in channels:
-            # Mevcut tvgId'yi al (zaten kanal_ prefix'li)
             channel_id = channel.get('tvgId', '')
             
-            # Eğer ID yoksa veya geçersizse oluştur
             if not channel_id or channel_id == 'no_epg_xxx':
-                # Title'dan benzersiz ID oluştur
                 base_id = channel.get('title', 'unknown')
                 base_id = base_id.lower().replace(' ', '-').replace('tv', '').strip('-')
                 base_id = ''.join(c for c in base_id if c.isalnum() or c == '-')
                 channel_id = f"kanal_{abs(hash(base_id)) % 10000000000:010d}"
                 channel['tvgId'] = channel_id
             
-            # 🔥 URL'yi Worker'a yönlendir
             channel['url'] = f"{WORKER_URL}/{channel_id}.m3u8"
-            
-            print(f"   🔄 Adult: {channel['title']} → {channel_id}")
         
-        print(f"✅ {len(channels)} yetişkin kanalı çekildi (kanal ID olarak)")
+        print(f"✅ {len(channels)} yetişkin kanalı çekildi")
         return channels
     except Exception as e:
         print(f"❌ Adult kanalları hatası: {e}")
@@ -78,11 +102,8 @@ def fetch_adult_channels():
 def generate_js_file(normal_channels, adult_channels):
     """JavaScript dosyasını oluştur"""
     if normal_channels is None:
-        print("❌ Normal kanal verisi eksik, dosya oluşturulmadı")
+        print("❌ Normal kanal verisi eksik")
         return False
-    
-    if not adult_channels:
-        print("⚠️ Adult kanal listesi boş, sadece normal kanallar kaydedilecek")
     
     js_content = f"""const CODE_CLOUD_BD = {{
     name: "CodeCloudBD",
@@ -90,7 +111,7 @@ def generate_js_file(normal_channels, adult_channels):
     source: "https://stream.codecloud.bd/",
     active: true,
     isAdult: false,
-    copyright: "We do not host or stream any content. All streams are publicly available. This service is provided free of charge for entertainment purposes only. By using this service, you agree to release us from all liability.",
+    copyright: "We do not host or stream any content. All streams are publicly available.",
     data: {json.dumps(normal_channels, indent=4, ensure_ascii=False)}
 }};
 
@@ -100,7 +121,7 @@ const ADULT_IPTV = {{
     source: "https://adultiptv.net/",
     active: true,
     isAdult: true,
-    copyright: "We do not host or stream any content. All streams are publicly available. This service is provided free of charge for entertainment purposes only. By using this service, you agree to release us from all liability.",
+    copyright: "We do not host or stream any content. All streams are publicly available.",
     data: {json.dumps(adult_channels, indent=4, ensure_ascii=False)}
 }};
 
@@ -112,7 +133,7 @@ export {{ CODE_CLOUD_BD, ADULT_IPTV }};"""
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             f.write(js_content)
         
-        print(f"✅ Dosya oluşturuldu/güncellendi: {OUTPUT_FILE}")
+        print(f"✅ Dosya oluşturuldu: {OUTPUT_FILE}")
         print(f"📊 Toplam {len(normal_channels)} normal + {len(adult_channels)} yetişkin = {len(normal_channels) + len(adult_channels)} kanal")
         return True
     except Exception as e:
@@ -127,15 +148,9 @@ def sync_channels():
     adult_channels = fetch_adult_channels()
     
     if normal_channels is not None:
-        success = generate_js_file(normal_channels, adult_channels if adult_channels else [])
-        if success:
-            print("✅ Senkronizasyon başarıyla tamamlandı")
-            return True
-        else:
-            print("❌ Dosya oluşturulamadı")
-            return False
+        return generate_js_file(normal_channels, adult_channels if adult_channels else [])
     else:
-        print("❌ Senkronizasyon başarısız (normal kanallar alınamadı)")
+        print("❌ Senkronizasyon başarısız")
         return False
 
 # ============================================
@@ -145,10 +160,7 @@ def sync_channels():
 if __name__ == "__main__":
     try:
         success = sync_channels()
-        if success:
-            sys.exit(0)
-        else:
-            sys.exit(1)
+        sys.exit(0 if success else 1)
     except Exception as e:
         print(f"❌ Beklenmeyen hata: {e}")
         sys.exit(1)
