@@ -1454,6 +1454,15 @@ const CODE_CLOUD_BD = {
         "tvgLogo": "",
         "groupTitle": "TR_SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785166969798.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Bilinmeyen Kanal",
+        "tvgId": "-OydPqDvVYNiE5i8MFa1",
+        "tvgName": "Bilinmeyen Kanal",
+        "tvgLogo": "https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003212.png",
+        "groupTitle": "Genel",
+        "url": "https://gizli.mutlumedya.workers.dev/-OydPqDvVYNiE5i8MFa1.m3u8"
     }
 ]
 };
