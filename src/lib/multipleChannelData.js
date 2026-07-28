@@ -1825,6 +1825,16 @@ const ADULT_IPTV = {
         "tvgLogo": "http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png",
         "groupTitle": "Взрослые",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_4839201756.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Minikago",
+        "tvgId": "minikago",
+        "tvgName": "Minikago",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/minikago.png",
+        "groupTitle": "ÇOCUK",
+        "url": "https://gizli.mutlumedya.workers.dev/minikago.m3u8",
+        "Referer": "https://www.canlitv.tech/"
     }
 ]
 };
