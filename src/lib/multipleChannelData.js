@@ -26,9 +26,9 @@ const CODE_CLOUD_BD = {
     },
     {
         "duration": -1,
-        "title": "beIN Sports 1-HİT refe",
+        "title": "beIN Sports Haber",
         "tvgId": "kanal_1784912419236",
-        "tvgName": "beIN Sports 1-HİT refe",
+        "tvgName": "beIN Sports Haber",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/bein.png",
         "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912419236.m3u8"
