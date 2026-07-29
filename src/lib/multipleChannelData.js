@@ -1463,6 +1463,393 @@ const CODE_CLOUD_BD = {
         "tvgLogo": "https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003212.png",
         "groupTitle": "Genel",
         "url": "https://gizli.mutlumedya.workers.dev/-OydPqDvVYNiE5i8MFa1.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Minikago",
+        "tvgId": "kanal_1785309734033",
+        "tvgName": "Minikago",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/minikago.png",
+        "groupTitle": "ÇOCUK",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309734033.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Minika Çocuk",
+        "tvgId": "kanal_1785309734319",
+        "tvgName": "Minika Çocuk",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/minikacocuk.png",
+        "groupTitle": "ÇOCUK",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309734319.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TRT Çocuk",
+        "tvgId": "kanal_1785309734588",
+        "tvgName": "TRT Çocuk",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/trtcocuk.png",
+        "groupTitle": "ÇOCUK",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309734588.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TRT Diyanet Çocuk",
+        "tvgId": "kanal_1785309734876",
+        "tvgName": "TRT Diyanet Çocuk",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/trtdiyanet.png",
+        "groupTitle": "ÇOCUK",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309734876.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Vav TV",
+        "tvgId": "kanal_1785309735181",
+        "tvgName": "Vav TV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/vavtv.png",
+        "groupTitle": "ÇOCUK",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309735181.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Star TV",
+        "tvgId": "kanal_1785309735441",
+        "tvgName": "Star TV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/star.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309735441.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Kanal D",
+        "tvgId": "kanal_1785309735706",
+        "tvgName": "Kanal D",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/kanald.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309735706.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Show TV",
+        "tvgId": "kanal_1785309735994",
+        "tvgName": "Show TV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/showtv.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309735994.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Kanal 7",
+        "tvgId": "kanal_1785309736275",
+        "tvgName": "Kanal 7",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/kanal7.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309736275.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Beyaz TV",
+        "tvgId": "kanal_1785309736551",
+        "tvgName": "Beyaz TV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beyaztv.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309736551.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Show Türk",
+        "tvgId": "kanal_1785309736838",
+        "tvgName": "Show Türk",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/showturk.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309736838.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TV5",
+        "tvgId": "kanal_1785309737134",
+        "tvgName": "TV5",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tv5.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309737134.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TV4",
+        "tvgId": "kanal_1785309737391",
+        "tvgName": "TV4",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tv4.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309737391.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TV360",
+        "tvgId": "kanal_1785309737690",
+        "tvgName": "TV360",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tv360.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309737690.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "AZ TV",
+        "tvgId": "kanal_1785309737962",
+        "tvgName": "AZ TV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/aztv.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309737962.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Ülke TV",
+        "tvgId": "kanal_1785309738230",
+        "tvgName": "Ülke TV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/ulketv.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309738230.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Tivi6",
+        "tvgId": "kanal_1785309738522",
+        "tvgName": "Tivi6",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tivi6.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309738522.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Showmax",
+        "tvgId": "kanal_1785309738807",
+        "tvgName": "Showmax",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/showmax.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309738807.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Agro TV",
+        "tvgId": "kanal_1785309739080",
+        "tvgName": "Agro TV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/agrotv.png",
+        "groupTitle": "TV",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309739080.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "A Haber",
+        "tvgId": "kanal_1785309739344",
+        "tvgName": "A Haber",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/ahaber.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309739344.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TRT Haber",
+        "tvgId": "kanal_1785309739604",
+        "tvgName": "TRT Haber",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/trthaber.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309739604.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "NTV",
+        "tvgId": "kanal_1785309739895",
+        "tvgName": "NTV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/ntv.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309739895.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Habertürk",
+        "tvgId": "kanal_1785309740174",
+        "tvgName": "Habertürk",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/haberturk.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309740174.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TV100",
+        "tvgId": "kanal_1785309740449",
+        "tvgName": "TV100",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tv100.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309740449.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TVnet",
+        "tvgId": "kanal_1785309740737",
+        "tvgName": "TVnet",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tvnet.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309740737.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Haber Global",
+        "tvgId": "kanal_1785309741032",
+        "tvgName": "Haber Global",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/haberglobal.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309741032.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TGRT Haber",
+        "tvgId": "kanal_1785309741323",
+        "tvgName": "TGRT Haber",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tgrthaber.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309741323.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TV24",
+        "tvgId": "kanal_1785309741586",
+        "tvgName": "TV24",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tv24.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309741586.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Bloomberg HT",
+        "tvgId": "kanal_1785309741839",
+        "tvgName": "Bloomberg HT",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/bloomberght.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309741839.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "CNBC-e",
+        "tvgId": "kanal_1785309742135",
+        "tvgName": "CNBC-e",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/cnbce.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309742135.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Finans Türk",
+        "tvgId": "kanal_1785309742396",
+        "tvgName": "Finans Türk",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/finansturk.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309742396.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TELE1",
+        "tvgId": "kanal_1785309742687",
+        "tvgName": "TELE1",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tele1.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309742687.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Halk TV",
+        "tvgId": "kanal_1785309742961",
+        "tvgName": "Halk TV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/halktv.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309742961.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Bengü Türk",
+        "tvgId": "kanal_1785309743235",
+        "tvgName": "Bengü Türk",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/benguturk.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309743235.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "A2",
+        "tvgId": "kanal_1785309743533",
+        "tvgName": "A2",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/a2.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309743533.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Kanal B",
+        "tvgId": "kanal_1785309743791",
+        "tvgName": "Kanal B",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/kanalb.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309743791.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Kanal 7 Avrupa",
+        "tvgId": "kanal_1785309744078",
+        "tvgName": "Kanal 7 Avrupa",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/kanal7avrupa.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309744078.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TRT 2",
+        "tvgId": "kanal_1785309744351",
+        "tvgName": "TRT 2",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/trt2.png",
+        "groupTitle": "HABER",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309744351.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "A Spor",
+        "tvgId": "kanal_1785309744638",
+        "tvgName": "A Spor",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/aspor.png",
+        "groupTitle": "SPOR",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309744638.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "HT Spor",
+        "tvgId": "kanal_1785309744932",
+        "tvgName": "HT Spor",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/htspor.png",
+        "groupTitle": "SPOR",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309744932.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Ekol TV",
+        "tvgId": "kanal_1785309745237",
+        "tvgName": "Ekol TV",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/ekoltv.png",
+        "groupTitle": "SPOR",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309745237.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Kral Pop",
+        "tvgId": "kanal_1785309745519",
+        "tvgName": "Kral Pop",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/kralpop.png",
+        "groupTitle": "MÜZİK",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309745519.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Cine 1",
+        "tvgId": "kanal_1785309745768",
+        "tvgName": "Cine 1",
+        "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/cine1.png",
+        "groupTitle": "FİLM",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309745768.m3u8"
     }
 ]
 };
