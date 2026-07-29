@@ -615,7 +615,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912437170",
         "tvgName": "beIN SPORTS 1 HD Avva",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777556242_61b4d381230a63fbdb84.jpeg",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912437170.m3u8"
     },
     {
@@ -624,7 +624,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912437445",
         "tvgName": "beIN SPORTS 2 HD",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777559808_1357a6ec8b0917e4a713.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912437445.m3u8"
     },
     {
@@ -633,7 +633,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912437694",
         "tvgName": "beIN SPORTS 3 HD",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777559846_2789e29889c0139bb875.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912437694.m3u8"
     },
     {
@@ -642,7 +642,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912437973",
         "tvgName": "beIN SPORTS 4 HD",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777559866_63b20549dd277e685e49.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912437973.m3u8"
     },
     {
@@ -651,7 +651,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912438243",
         "tvgName": "beIN SPORTS 5 HD",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777559890_040f71e54618a5a7e704.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912438243.m3u8"
     },
     {
@@ -660,7 +660,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912438505",
         "tvgName": "beIN SPORTS HD MAX 1",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777559926_af52bf56050d3d1bb98d.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912438505.m3u8"
     },
     {
@@ -669,7 +669,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912438759",
         "tvgName": "beIN SPORTS HD MAX 2",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777559944_7e98e4acce869d0f86e4.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912438759.m3u8"
     },
     {
@@ -678,7 +678,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912439028",
         "tvgName": "S SPORT 1",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560294_1a980cf1624b0a3ba28a.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912439028.m3u8"
     },
     {
@@ -687,7 +687,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912439312",
         "tvgName": "S SPORT 2",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560319_373e7c60ddba69b1a3be.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912439312.m3u8"
     },
     {
@@ -696,7 +696,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912439574",
         "tvgName": "S SPORT PLUS",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560336_feaa41fc9bd9fb3d5c4c.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912439574.m3u8"
     },
     {
@@ -705,7 +705,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912439846",
         "tvgName": "TİVİBUSPOR",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560637_143925d3aa62a00bf7a1.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912439846.m3u8"
     },
     {
@@ -714,7 +714,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912440129",
         "tvgName": "TİVİBUSPOR 2",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560651_088be25604a8dbacea76.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912440129.m3u8"
     },
     {
@@ -723,7 +723,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912440410",
         "tvgName": "TİVİBUSPOR 3",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560665_e9c0a11ecc9198477135.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912440410.m3u8"
     },
     {
@@ -732,7 +732,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912440700",
         "tvgName": "TİVİBUSPOR 4",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560681_86f00db94128767ed08e.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912440700.m3u8"
     },
     {
@@ -741,7 +741,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912441304",
         "tvgName": "SMART SPOR",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560373_907498ad1b3c0a3e2309.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912441304.m3u8"
     },
     {
@@ -750,7 +750,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912441598",
         "tvgName": "SMART SPOR 2",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560388_b104ff51d48a670b6a14.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912441598.m3u8"
     },
     {
@@ -759,7 +759,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912441859",
         "tvgName": "TABİİ SPOR",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560420_779f4e29a25beed572ee.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912441859.m3u8"
     },
     {
@@ -768,7 +768,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912442133",
         "tvgName": "TABİİ SPOR 1",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560440_2bd5ca1791c72931a0dc.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912442133.m3u8"
     },
     {
@@ -777,7 +777,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912442406",
         "tvgName": "TABİİ SPOR 2",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560470_b7883c77ba2c0e7dbda9.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912442406.m3u8"
     },
     {
@@ -786,7 +786,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912442660",
         "tvgName": "TABİİ SPOR 3",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560492_09ed07a8bc4de1974219.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912442660.m3u8"
     },
     {
@@ -795,7 +795,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912442927",
         "tvgName": "TABİİ SPOR 4",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560506_fcd2118838e07702ccbb.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912442927.m3u8"
     },
     {
@@ -804,7 +804,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912443180",
         "tvgName": "TABİİ SPOR 5",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560520_387804be766f5bac463b.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912443180.m3u8"
     },
     {
@@ -813,7 +813,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912443426",
         "tvgName": "EXXEN 1",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560002_5bd33b50a9ad89c8c380.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912443426.m3u8"
     },
     {
@@ -822,7 +822,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912443696",
         "tvgName": "EXXEN 2",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560017_4d9f3df725b7b3ea25ad.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912443696.m3u8"
     },
     {
@@ -831,7 +831,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912443981",
         "tvgName": "EXXEN 3",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560031_c09ccc9c782724982b6b.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912443981.m3u8"
     },
     {
@@ -840,7 +840,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912444256",
         "tvgName": "EXXEN 4",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560045_e7c6abfe934091137d76.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912444256.m3u8"
     },
     {
@@ -849,7 +849,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912444530",
         "tvgName": "EXXEN 5",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560060_2fc5771ade410ea2658e.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912444530.m3u8"
     },
     {
@@ -858,7 +858,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912444795",
         "tvgName": "TRT 1",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560710_af6b5d6bc6dc28e6b225.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912444795.m3u8"
     },
     {
@@ -867,7 +867,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912445030",
         "tvgName": "TRT SPOR",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560725_e87194099025e7679b17.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912445030.m3u8"
     },
     {
@@ -876,7 +876,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912445316",
         "tvgName": "TV 8",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560747_695852207939f0b9ccba.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912445316.m3u8"
     },
     {
@@ -885,7 +885,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912445567",
         "tvgName": "TV 8.5",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560770_46d37670472b5c8156fd.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912445567.m3u8"
     },
     {
@@ -894,7 +894,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912445816",
         "tvgName": "A SPOR",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560801_2c4378c937808336db7d.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912445816.m3u8"
     },
     {
@@ -903,7 +903,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912446089",
         "tvgName": "A HABER",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560813_a1327f34eaf278d46cca.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912446089.m3u8"
     },
     {
@@ -912,7 +912,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1784912446405",
         "tvgName": "ATV",
         "tvgLogo": "https://avvasportshd1.com/uploads/logos/1777560831_89666f2f82d64d3393e4.png",
-        "groupTitle": "AVVA SPORTS",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1784912446405.m3u8"
     },
     {
@@ -1128,7 +1128,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034487814",
         "tvgName": "2. Vizon 4K",
         "tvgLogo": "https://r.resimlink.com/NV5e_3Rc.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034487814.m3u8"
     },
     {
@@ -1137,7 +1137,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034488170",
         "tvgName": "5. Vizon Gold",
         "tvgLogo": "https://r.resimlink.com/5OPiqMeko3ja.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034488170.m3u8"
     },
     {
@@ -1146,7 +1146,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034488465",
         "tvgName": "8. Vizon Komedi",
         "tvgLogo": "https://r.resimlink.com/Hx2okvEADmh.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034488465.m3u8"
     },
     {
@@ -1155,7 +1155,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034488752",
         "tvgName": "13. Movie Vizyon",
         "tvgLogo": "https://resmim.net/cdn/2026/03/30/CjNxaZ.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034488752.m3u8"
     },
     {
@@ -1164,7 +1164,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034489011",
         "tvgName": "14. Movie Yerli",
         "tvgLogo": "https://resmim.net/cdn/2026/03/30/CjNAKk.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034489011.m3u8"
     },
     {
@@ -1173,7 +1173,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034489277",
         "tvgName": "17. DiziBox",
         "tvgLogo": "https://r.resimlink.com/DIHrxMFfoTJ4.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034489277.m3u8"
     },
     {
@@ -1182,7 +1182,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034489566",
         "tvgName": "18. Dizi TV",
         "tvgLogo": "https://resmim.net/cdn/2026/03/01/wqZXSI.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034489566.m3u8"
     },
     {
@@ -1191,7 +1191,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034489832",
         "tvgName": "20. Vizon Show",
         "tvgLogo": "https://r.resimlink.com/zPSVRIW.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034489832.m3u8"
     },
     {
@@ -1200,7 +1200,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034490133",
         "tvgName": "43. Star Dramas",
         "tvgLogo": "https://r.resimlink.com/kAyb7Xr.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034490133.m3u8"
     },
     {
@@ -1209,7 +1209,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034490415",
         "tvgName": "44. Star Series",
         "tvgLogo": "https://r.resimlink.com/J5DUP.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034490415.m3u8"
     },
     {
@@ -1218,7 +1218,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034490689",
         "tvgName": "46. Cine 5 HD",
         "tvgLogo": "https://resmim.net/cdn/2026/02/27/wUZbvZ.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034490689.m3u8"
     },
     {
@@ -1227,7 +1227,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034490966",
         "tvgName": "49. Cine 6",
         "tvgLogo": "https://r.resimlink.com/jYrd6bl3I.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034490966.m3u8"
     },
     {
@@ -1236,7 +1236,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034491246",
         "tvgName": "50. Yansıma Sinema",
         "tvgLogo": "https://resmim.net/cdn/2026/06/16/CIcPbW.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034491246.m3u8"
     },
     {
@@ -1245,7 +1245,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034491525",
         "tvgName": "62. Vizon Haber",
         "tvgLogo": "https://r.resimlink.com/GDgxc-.png",
-        "groupTitle": "Spor",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034491525.m3u8"
     },
     {
@@ -1254,7 +1254,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034491789",
         "tvgName": "78. Vizon Spor 2",
         "tvgLogo": "https://r.resimlink.com/0KtzRU24.png",
-        "groupTitle": "Spor",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034491789.m3u8"
     },
     {
@@ -1263,7 +1263,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034492089",
         "tvgName": "79. Star Sports",
         "tvgLogo": "https://r.resimlink.com/_ftezFyAPOJq.png",
-        "groupTitle": "Spor",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034492089.m3u8"
     },
     {
@@ -1272,7 +1272,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034492448",
         "tvgName": "80. NT Spor",
         "tvgLogo": "https://resmim.net/cdn/2026/07/18/EfQ7uD.png",
-        "groupTitle": "Spor",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034492448.m3u8"
     },
     {
@@ -1281,7 +1281,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034492715",
         "tvgName": "94. Trace Sports",
         "tvgLogo": "https://resmim.net/cdn/2026/04/20/Cg2lXI.png",
-        "groupTitle": "Spor",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034492715.m3u8"
     },
     {
@@ -1290,7 +1290,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034492998",
         "tvgName": "108. Şaban TV",
         "tvgLogo": "https://resmim.net/cdn/2026/04/18/C3viGQ.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034492998.m3u8"
     },
     {
@@ -1299,7 +1299,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034493269",
         "tvgName": "110. STV",
         "tvgLogo": "https://resmim.net/cdn/2026/03/30/CXUpIb.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034493269.m3u8"
     },
     {
@@ -1308,7 +1308,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034493525",
         "tvgName": "111. Flux TV",
         "tvgLogo": "https://resmim.net/cdn/2026/06/29/CamBAc.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034493525.m3u8"
     },
     {
@@ -1317,7 +1317,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034493829",
         "tvgName": "112. Deniz TV",
         "tvgLogo": "https://resmim.net/cdn/2026/04/30/CbQMEo.png",
-        "groupTitle": "Belgesel & Yaşam",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034493829.m3u8"
     },
     {
@@ -1326,7 +1326,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034494083",
         "tvgName": "133. Nature Time",
         "tvgLogo": "https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",
-        "groupTitle": "Belgesel & Yaşam",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034494083.m3u8"
     },
     {
@@ -1335,7 +1335,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034494369",
         "tvgName": "134. Travel 4K",
         "tvgLogo": "https://resmim.net/cdn/2026/05/05/CoPeiM.png",
-        "groupTitle": "Belgesel & Yaşam",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034494369.m3u8"
     },
     {
@@ -1344,7 +1344,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034494645",
         "tvgName": "177. TV 5",
         "tvgLogo": "https://resmim.net/cdn/2026/07/25/EENxYK.png",
-        "groupTitle": "Belgesel & Yaşam",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034494645.m3u8"
     },
     {
@@ -1353,7 +1353,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034494917",
         "tvgName": "300. Vizon Çocuk",
         "tvgLogo": "",
-        "groupTitle": "Çocuk",
+        "groupTitle": "ÇOCUK",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034494917.m3u8"
     },
     {
@@ -1362,7 +1362,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034495676",
         "tvgName": "301. Filmbox Çocuk",
         "tvgLogo": "",
-        "groupTitle": "Çocuk",
+        "groupTitle": "ÇOCUK",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034495676.m3u8"
     },
     {
@@ -1371,7 +1371,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034495922",
         "tvgName": "302. Star Cartoons",
         "tvgLogo": "https://resmim.net/cdn/2026/04/27/CYd332.png",
-        "groupTitle": "Film & Dizi",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034495922.m3u8"
     },
     {
@@ -1380,7 +1380,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034496200",
         "tvgName": "312. FX Cartoon",
         "tvgLogo": "https://resmim.net/cdn/2026/03/30/CXvdax.png",
-        "groupTitle": "Çocuk",
+        "groupTitle": "ÇOCUK",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034496200.m3u8"
     },
     {
@@ -1389,7 +1389,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034496481",
         "tvgName": "320. Vizon Müzik",
         "tvgLogo": "https://r.resimlink.com/35bOcIDi6m.png",
-        "groupTitle": "Çocuk",
+        "groupTitle": "ÇOCUK",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034496481.m3u8"
     },
     {
@@ -1398,7 +1398,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034496766",
         "tvgName": "504. BBC Series",
         "tvgLogo": "https://r.resimlink.com/X4u_oUF.png",
-        "groupTitle": "Yabancı",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034496766.m3u8"
     },
     {
@@ -1407,7 +1407,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034497054",
         "tvgName": "505. FX Movies",
         "tvgLogo": "https://r.resimlink.com/oCm24hIejP.png",
-        "groupTitle": "Yabancı",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034497054.m3u8"
     },
     {
@@ -1416,7 +1416,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785034497326",
         "tvgName": "507. Show Plus",
         "tvgLogo": "https://r.resimlink.com/wVzqXfSt79E2.png",
-        "groupTitle": "Yabancı",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785034497326.m3u8"
     },
     {
@@ -1434,7 +1434,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785166969219",
         "tvgName": "Tv8",
         "tvgLogo": "",
-        "groupTitle": "TR_SPOR",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785166969219.m3u8"
     },
     {
@@ -1443,7 +1443,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785166969558",
         "tvgName": "Cbc",
         "tvgLogo": "",
-        "groupTitle": "TR_SPOR",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785166969558.m3u8"
     },
     {
@@ -1452,7 +1452,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785166969798",
         "tvgName": "CBC SPORT",
         "tvgLogo": "",
-        "groupTitle": "TR_SPOR",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785166969798.m3u8"
     },
     {
@@ -1515,7 +1515,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309735441",
         "tvgName": "Star TV",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/star.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309735441.m3u8"
     },
     {
@@ -1524,7 +1524,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309735706",
         "tvgName": "Kanal D",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/kanald.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309735706.m3u8"
     },
     {
@@ -1533,7 +1533,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309735994",
         "tvgName": "Show TV",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/showtv.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309735994.m3u8"
     },
     {
@@ -1542,7 +1542,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309736275",
         "tvgName": "Kanal 7",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/kanal7.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309736275.m3u8"
     },
     {
@@ -1551,7 +1551,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309736551",
         "tvgName": "Beyaz TV",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/beyaztv.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309736551.m3u8"
     },
     {
@@ -1560,7 +1560,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309736838",
         "tvgName": "Show Türk",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/showturk.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309736838.m3u8"
     },
     {
@@ -1569,7 +1569,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309737134",
         "tvgName": "TV5",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tv5.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309737134.m3u8"
     },
     {
@@ -1578,7 +1578,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309737391",
         "tvgName": "TV4",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tv4.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309737391.m3u8"
     },
     {
@@ -1587,7 +1587,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309737690",
         "tvgName": "TV360",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tv360.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309737690.m3u8"
     },
     {
@@ -1596,7 +1596,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309737962",
         "tvgName": "AZ TV",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/aztv.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309737962.m3u8"
     },
     {
@@ -1605,7 +1605,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309738230",
         "tvgName": "Ülke TV",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/ulketv.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309738230.m3u8"
     },
     {
@@ -1614,7 +1614,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309738522",
         "tvgName": "Tivi6",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/tivi6.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309738522.m3u8"
     },
     {
@@ -1623,7 +1623,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309738807",
         "tvgName": "Showmax",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/showmax.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309738807.m3u8"
     },
     {
@@ -1632,7 +1632,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309739080",
         "tvgName": "Agro TV",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/agrotv.png",
-        "groupTitle": "TV",
+        "groupTitle": "ULUSAL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309739080.m3u8"
     },
     {
@@ -1848,7 +1848,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785309745768",
         "tvgName": "Cine 1",
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/cine1.png",
-        "groupTitle": "FİLM",
+        "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309745768.m3u8"
     }
 ]
