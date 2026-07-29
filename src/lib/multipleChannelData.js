@@ -1850,6 +1850,312 @@ const CODE_CLOUD_BD = {
         "tvgLogo": "https://raw.githubusercontent.com/kadirsener1/logolar/refs/heads/master/kanallogolari/cine1.png",
         "groupTitle": "SİNEMA",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785309745768.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "AzTV [HD]",
+        "tvgId": "kanal_1785347289636",
+        "tvgName": "AzTV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/aztv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289636.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Azad Azərbaycan [HD]",
+        "tvgId": "kanal_1785347289640",
+        "tvgName": "Azad Azərbaycan [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/atv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289640.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Xəzər TV",
+        "tvgId": "kanal_1785347289641",
+        "tvgName": "Xəzər TV",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/xazartv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289641.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "ARB [HD]",
+        "tvgId": "kanal_1785347289641",
+        "tvgName": "ARB [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/arb.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289641.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "İctimai TV [HD]",
+        "tvgId": "kanal_1785347289642",
+        "tvgName": "İctimai TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/itv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289642.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "ARB 24",
+        "tvgId": "kanal_1785347289643",
+        "tvgName": "ARB 24",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/arb24_alt.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289643.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "ARB 24 -2",
+        "tvgId": "kanal_1785347289643",
+        "tvgName": "ARB 24 -2",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/arb24_alt.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289643.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Baku TV [HD]",
+        "tvgId": "kanal_1785347289644",
+        "tvgName": "Baku TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/bakutv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289644.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Muz TV [HD]",
+        "tvgId": "kanal_1785347289644",
+        "tvgName": "Muz TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/mtv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289644.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Space TV [HD]",
+        "tvgId": "kanal_1785347289644",
+        "tvgName": "Space TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/space.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289644.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Real TV",
+        "tvgId": "kanal_1785347289645",
+        "tvgName": "Real TV",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/realtv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289645.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Mədəniyyət TV [HD]",
+        "tvgId": "kanal_1785347289645",
+        "tvgName": "Mədəniyyət TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/medeniyyet.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289645.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "İdman TV [HD]",
+        "tvgId": "kanal_1785347289646",
+        "tvgName": "İdman TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/idmantv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289646.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "CBC TV",
+        "tvgId": "kanal_1785347289646",
+        "tvgName": "CBC TV",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/cbc.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289646.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "CBC Sport [HD]",
+        "tvgId": "kanal_1785347289646",
+        "tvgName": "CBC Sport [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/cbcsport.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289646.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Naxçıvan TV [HD]",
+        "tvgId": "kanal_1785347289647",
+        "tvgName": "Naxçıvan TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/ntv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289647.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "TMB AZ TV",
+        "tvgId": "kanal_1785347289647",
+        "tvgName": "TMB AZ TV",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/tmbaz.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289647.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "AYAZ TV [HD]",
+        "tvgId": "kanal_1785347289647",
+        "tvgName": "AYAZ TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/ayaz.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289647.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Kanal S [HD]",
+        "tvgId": "kanal_1785347289648",
+        "tvgName": "Kanal S [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/kanals.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289648.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Kəpəz TV",
+        "tvgId": "kanal_1785347289648",
+        "tvgName": "Kəpəz TV",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/kepez.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289648.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "APA TV [HD]",
+        "tvgId": "kanal_1785347289648",
+        "tvgName": "APA TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/apatv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289648.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Səhiyyə TV [HD]",
+        "tvgId": "kanal_1785347289649",
+        "tvgName": "Səhiyyə TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/stv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289649.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Dünya TV [OFF]",
+        "tvgId": "kanal_1785347289649",
+        "tvgName": "Dünya TV [OFF]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/dunyatv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289649.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Alvin Channel [SHUTDOWN]",
+        "tvgId": "kanal_1785347289649",
+        "tvgName": "Alvin Channel [SHUTDOWN]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/alvin.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289649.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Live TV [HD]",
+        "tvgId": "kanal_1785347289650",
+        "tvgName": "Live TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/livetv.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289650.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "SHOW PLUS [HD]",
+        "tvgId": "kanal_1785347289650",
+        "tvgName": "SHOW PLUS [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/showplus.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289650.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Güney Azərbaycan TV [HD]",
+        "tvgId": "kanal_1785347289650",
+        "tvgName": "Güney Azərbaycan TV [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/gunaz.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289650.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "ARB Günəş [HD]",
+        "tvgId": "kanal_1785347289651",
+        "tvgName": "ARB Günəş [HD]",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/az/arbgunes.png",
+        "groupTitle": "Azərbaycan",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289651.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "brt 1 HD",
+        "tvgId": "kanal_1785347289651",
+        "tvgName": "brt 1 HD",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/tr/brt1.png",
+        "groupTitle": "ULUSAL",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289651.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "brt 2 HD",
+        "tvgId": "kanal_1785347289651",
+        "tvgName": "brt 2 HD",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/tr/brt2.png",
+        "groupTitle": "ULUSAL",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289651.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "HT-SPOR TV",
+        "tvgId": "kanal_1785347289652",
+        "tvgName": "HT-SPOR TV",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/spor/htspor.png",
+        "groupTitle": "SPOR",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289652.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Fenerbahçe TV",
+        "tvgId": "kanal_1785347289652",
+        "tvgName": "Fenerbahçe TV",
+        "tvgLogo": "https://kedysmt.github.io/files/logos/spor/fbtv.png",
+        "groupTitle": "SPOR",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289652.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "beIN Sports 1",
+        "tvgId": "kanal_1785347289652",
+        "tvgName": "beIN Sports 1",
+        "tvgLogo": "",
+        "groupTitle": "SPOR",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785347289652.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "Testt",
+        "tvgId": "kanal_1785350738824",
+        "tvgName": "Testt",
+        "tvgLogo": "",
+        "groupTitle": "Spor",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785350738824.m3u8"
     }
 ]
 };
