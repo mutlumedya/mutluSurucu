@@ -2163,7 +2163,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370106581",
         "tvgName": "A SPOR",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370106581.m3u8"
     },
     {
@@ -2172,7 +2172,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370106820",
         "tvgName": "TRT SPOR",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370106820.m3u8"
     },
     {
@@ -2181,7 +2181,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370107048",
         "tvgName": "TRT SPOR YILDIZ",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370107048.m3u8"
     },
     {
@@ -2190,7 +2190,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370107276",
         "tvgName": "HT SPOR HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370107276.m3u8"
     },
     {
@@ -2199,7 +2199,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370107517",
         "tvgName": "EKOL SPOR HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370107517.m3u8"
     },
     {
@@ -2208,7 +2208,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370107740",
         "tvgName": "StarLIVE SPORTS HABER",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370107740.m3u8"
     },
     {
@@ -2217,7 +2217,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370108019",
         "tvgName": "StarLIVE SPORTS HABER HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370108019.m3u8"
     },
     {
@@ -2226,7 +2226,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370108246",
         "tvgName": "StarLIVE SPORTS HABER RAW",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370108246.m3u8"
     },
     {
@@ -2235,7 +2235,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370108473",
         "tvgName": "StarLIVE SPORTS 8K FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370108473.m3u8"
     },
     {
@@ -2244,7 +2244,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370108698",
         "tvgName": "StarLIVE SPORTS FEED (OZEL FEED YAYIN)",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370108698.m3u8"
     },
     {
@@ -2253,7 +2253,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370108929",
         "tvgName": "StarLIVE SPORTS 4K FEED(KUTU)",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370108929.m3u8"
     },
     {
@@ -2262,7 +2262,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370109872",
         "tvgName": "StarLIVE SPORTS 4K FEED(UYDU)",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370109872.m3u8"
     },
     {
@@ -2271,7 +2271,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370110288",
         "tvgName": "StarLIVE SPORTS 1 50 FPS",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370110288.m3u8"
     },
     {
@@ -2280,7 +2280,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370110532",
         "tvgName": "StarLIVE SPORTS 1 H265",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370110532.m3u8"
     },
     {
@@ -2289,7 +2289,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370110752",
         "tvgName": "StarLIVE SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370110752.m3u8"
     },
     {
@@ -2298,7 +2298,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370110964",
         "tvgName": "StarLIVE SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370110964.m3u8"
     },
     {
@@ -2307,7 +2307,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370111190",
         "tvgName": "StarLIVE SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370111190.m3u8"
     },
     {
@@ -2316,7 +2316,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370111415",
         "tvgName": "StarLIVE SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370111415.m3u8"
     },
     {
@@ -2325,7 +2325,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370111645",
         "tvgName": "StarLIVE SPORTS 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370111645.m3u8"
     },
     {
@@ -2334,7 +2334,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370111896",
         "tvgName": "StarLIVE SPORTS 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370111896.m3u8"
     },
     {
@@ -2343,7 +2343,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370112121",
         "tvgName": "StarLIVE SPORTS 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370112121.m3u8"
     },
     {
@@ -2352,7 +2352,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370112344",
         "tvgName": "StarLIVE SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370112344.m3u8"
     },
     {
@@ -2361,7 +2361,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370112573",
         "tvgName": "StarLIVE SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370112573.m3u8"
     },
     {
@@ -2370,7 +2370,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370112797",
         "tvgName": "StarLIVE SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370112797.m3u8"
     },
     {
@@ -2379,7 +2379,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370113023",
         "tvgName": "StarLIVE SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370113023.m3u8"
     },
     {
@@ -2388,7 +2388,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370113247",
         "tvgName": "StarLIVE SPORTS 2 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370113247.m3u8"
     },
     {
@@ -2397,7 +2397,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370113596",
         "tvgName": "StarLIVE SPORTS 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370113596.m3u8"
     },
     {
@@ -2406,7 +2406,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370113820",
         "tvgName": "StarLIVE SPORTS 2 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370113820.m3u8"
     },
     {
@@ -2415,7 +2415,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370114046",
         "tvgName": "StarLIVE SPORTS 3 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370114046.m3u8"
     },
     {
@@ -2424,7 +2424,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370114274",
         "tvgName": "StarLIVE SPORTS 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370114274.m3u8"
     },
     {
@@ -2433,7 +2433,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370114499",
         "tvgName": "StarLIVE SPORTS 3 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370114499.m3u8"
     },
     {
@@ -2442,7 +2442,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370114728",
         "tvgName": "StarLIVE SPORTS 3 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370114728.m3u8"
     },
     {
@@ -2451,7 +2451,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370114991",
         "tvgName": "StarLIVE SPORTS 4 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370114991.m3u8"
     },
     {
@@ -2460,7 +2460,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370115207",
         "tvgName": "StarLIVE SPORTS 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370115207.m3u8"
     },
     {
@@ -2469,7 +2469,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370115422",
         "tvgName": "StarLIVE SPORTS 4 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370115422.m3u8"
     },
     {
@@ -2478,7 +2478,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370115633",
         "tvgName": "StarLIVE SPORTS 4 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370115633.m3u8"
     },
     {
@@ -2487,7 +2487,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370115847",
         "tvgName": "StarLIVE SPORTS 5 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370115847.m3u8"
     },
     {
@@ -2496,7 +2496,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370116058",
         "tvgName": "StarLIVE SPORTS 5 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370116058.m3u8"
     },
     {
@@ -2505,7 +2505,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370116273",
         "tvgName": "StarLIVE SPORTS MAX 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370116273.m3u8"
     },
     {
@@ -2514,7 +2514,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370116485",
         "tvgName": "StarLIVE SPORTS MAX 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370116485.m3u8"
     },
     {
@@ -2523,7 +2523,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370116696",
         "tvgName": "StarLIVE SPORTS MAX 2 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370116696.m3u8"
     },
     {
@@ -2532,7 +2532,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370116912",
         "tvgName": "StarLIVE SPORTS MAX 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370116912.m3u8"
     },
     {
@@ -2541,7 +2541,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370117129",
         "tvgName": "StarLIVE SPORTS MAX 2 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370117129.m3u8"
     },
     {
@@ -2550,7 +2550,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370117339",
         "tvgName": "S SPORT",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370117339.m3u8"
     },
     {
@@ -2559,7 +2559,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370117556",
         "tvgName": "S-SPORT 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370117556.m3u8"
     },
     {
@@ -2568,7 +2568,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370117783",
         "tvgName": "S-SPORT 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370117783.m3u8"
     },
     {
@@ -2577,7 +2577,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370118439",
         "tvgName": "S-SPORT 1 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370118439.m3u8"
     },
     {
@@ -2586,7 +2586,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370118675",
         "tvgName": "S-SPORT 2 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370118675.m3u8"
     },
     {
@@ -2595,7 +2595,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370118887",
         "tvgName": "S SPORT 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370118887.m3u8"
     },
     {
@@ -2604,7 +2604,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370119106",
         "tvgName": "S-SPORT 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370119106.m3u8"
     },
     {
@@ -2613,7 +2613,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370119337",
         "tvgName": "S-SPORT 2 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370119337.m3u8"
     },
     {
@@ -2622,7 +2622,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370119548",
         "tvgName": "S-SPORT PLUS HD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370119548.m3u8"
     },
     {
@@ -2631,7 +2631,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370119759",
         "tvgName": "S-SPORT PLUS 1 HD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370119759.m3u8"
     },
     {
@@ -2640,7 +2640,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370119971",
         "tvgName": "S-SPORT PLUS 1 FHD  MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370119971.m3u8"
     },
     {
@@ -2649,7 +2649,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370120200",
         "tvgName": "S-SPORT PLUS 2 HD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370120200.m3u8"
     },
     {
@@ -2658,7 +2658,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370120415",
         "tvgName": "S-SPORT PLUS 2 FHD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370120415.m3u8"
     },
     {
@@ -2667,7 +2667,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370120631",
         "tvgName": "S-SPORT PLUS 3 FHD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370120631.m3u8"
     },
     {
@@ -2676,7 +2676,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370120847",
         "tvgName": "S SPORT PLUS 4 FHD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370120847.m3u8"
     },
     {
@@ -2685,7 +2685,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370121068",
         "tvgName": "TIVIBU SPOR RAW",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370121068.m3u8"
     },
     {
@@ -2694,7 +2694,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370121291",
         "tvgName": "TIVIBU SPOR  HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370121291.m3u8"
     },
     {
@@ -2703,7 +2703,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370121510",
         "tvgName": "TIVIBU SPOR  HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370121510.m3u8"
     },
     {
@@ -2712,7 +2712,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370121747",
         "tvgName": "TIVIBU SPOR 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370121747.m3u8"
     },
     {
@@ -2721,7 +2721,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370121983",
         "tvgName": "TIVIBU SPOR 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370121983.m3u8"
     },
     {
@@ -2730,7 +2730,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370122207",
         "tvgName": "TIVIBU SPOR 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370122207.m3u8"
     },
     {
@@ -2739,7 +2739,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370122428",
         "tvgName": "TIVIBU SPOR 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370122428.m3u8"
     },
     {
@@ -2748,7 +2748,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370122648",
         "tvgName": "TIVIBU SPOR 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370122648.m3u8"
     },
     {
@@ -2757,7 +2757,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370122894",
         "tvgName": "TIVIBU SPOR 2 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370122894.m3u8"
     },
     {
@@ -2766,7 +2766,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370123125",
         "tvgName": "TIVIBU SPOR 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370123125.m3u8"
     },
     {
@@ -2775,7 +2775,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370123347",
         "tvgName": "TIVIBU SPOR 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370123347.m3u8"
     },
     {
@@ -2784,7 +2784,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370123567",
         "tvgName": "TIVIBU SPOR 3 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370123567.m3u8"
     },
     {
@@ -2793,7 +2793,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370123785",
         "tvgName": "TIVIBU SPOR 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370123785.m3u8"
     },
     {
@@ -2802,7 +2802,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370124013",
         "tvgName": "TIVIBU SPOR 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370124013.m3u8"
     },
     {
@@ -2811,7 +2811,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370124232",
         "tvgName": "TIVIBU SPOR 5 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370124232.m3u8"
     },
     {
@@ -2820,7 +2820,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370124448",
         "tvgName": "TABII SPOR SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370124448.m3u8"
     },
     {
@@ -2829,7 +2829,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370124670",
         "tvgName": "TABII SPOR HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370124670.m3u8"
     },
     {
@@ -2838,7 +2838,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370124878",
         "tvgName": "TABII SPOR FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370124878.m3u8"
     },
     {
@@ -2847,7 +2847,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370125096",
         "tvgName": "TABII SPOR 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370125096.m3u8"
     },
     {
@@ -2856,7 +2856,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370125327",
         "tvgName": "TABII SPOR 1 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370125327.m3u8"
     },
     {
@@ -2865,7 +2865,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370125553",
         "tvgName": "TABII SPOR 1 4K",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370125553.m3u8"
     },
     {
@@ -2874,7 +2874,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370125962",
         "tvgName": "TABII SPOR 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370125962.m3u8"
     },
     {
@@ -2883,7 +2883,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370126182",
         "tvgName": "TABII SPOR 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370126182.m3u8"
     },
     {
@@ -2892,7 +2892,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370126401",
         "tvgName": "TABII SPOR 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370126401.m3u8"
     },
     {
@@ -2901,7 +2901,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370126611",
         "tvgName": "TABII SPOR 5 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370126611.m3u8"
     },
     {
@@ -2910,7 +2910,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370126821",
         "tvgName": "TABII SPOR 5 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370126821.m3u8"
     },
     {
@@ -2919,7 +2919,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370127040",
         "tvgName": "TABII SPOR 6 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370127040.m3u8"
     },
     {
@@ -2928,7 +2928,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370127262",
         "tvgName": "SPOR SMART 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370127262.m3u8"
     },
     {
@@ -2937,7 +2937,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370127470",
         "tvgName": "SPOR SMART 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370127470.m3u8"
     },
     {
@@ -2946,7 +2946,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370127689",
         "tvgName": "SPOR SMART 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370127689.m3u8"
     },
     {
@@ -2955,7 +2955,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370128093",
         "tvgName": "SPOR SMART 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370128093.m3u8"
     },
     {
@@ -2964,7 +2964,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370128319",
         "tvgName": "SPOR SMART 1 HEVC",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370128319.m3u8"
     },
     {
@@ -2973,7 +2973,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370128541",
         "tvgName": "SPOR SMART 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370128541.m3u8"
     },
     {
@@ -2982,7 +2982,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370128762",
         "tvgName": "SPOR SMART 2 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370128762.m3u8"
     },
     {
@@ -2991,7 +2991,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370128984",
         "tvgName": "EUROSPORT 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370128984.m3u8"
     },
     {
@@ -3000,7 +3000,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370129208",
         "tvgName": "EUROSPORT 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370129208.m3u8"
     },
     {
@@ -3009,7 +3009,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370129435",
         "tvgName": "EUROSPORT 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370129435.m3u8"
     },
     {
@@ -3018,7 +3018,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370129657",
         "tvgName": "EUROSPORT 2 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370129657.m3u8"
     },
     {
@@ -3027,7 +3027,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370130058",
         "tvgName": "SPORTS TV",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370130058.m3u8"
     },
     {
@@ -3036,7 +3036,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370130287",
         "tvgName": "EXXEN SPORTS 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370130287.m3u8"
     },
     {
@@ -3045,7 +3045,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370130620",
         "tvgName": "EXXEN SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370130620.m3u8"
     },
     {
@@ -3054,7 +3054,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370130851",
         "tvgName": "EXXEN SPORTS 1 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370130851.m3u8"
     },
     {
@@ -3063,7 +3063,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370131070",
         "tvgName": "EXXEN SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370131070.m3u8"
     },
     {
@@ -3072,7 +3072,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370131335",
         "tvgName": "EXXEN SPORTS 2 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370131335.m3u8"
     },
     {
@@ -3081,7 +3081,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370131565",
         "tvgName": "EXXEN SPORTS 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370131565.m3u8"
     },
     {
@@ -3090,7 +3090,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370131786",
         "tvgName": "EXXEN SPORTS 2 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370131786.m3u8"
     },
     {
@@ -3099,7 +3099,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370132014",
         "tvgName": "EXXEN SPORTS 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370132014.m3u8"
     },
     {
@@ -3108,7 +3108,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370132249",
         "tvgName": "EXXEN SPORTS 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370132249.m3u8"
     },
     {
@@ -3117,7 +3117,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370132509",
         "tvgName": "EXXEN SPORTS 5 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370132509.m3u8"
     },
     {
@@ -3126,7 +3126,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370132738",
         "tvgName": "EXXEN SPORTS 6 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370132738.m3u8"
     },
     {
@@ -3135,7 +3135,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370132958",
         "tvgName": "EXXEN SPORTS 7 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370132958.m3u8"
     },
     {
@@ -3144,7 +3144,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370133179",
         "tvgName": "EXXEN SPORTS 8 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370133179.m3u8"
     },
     {
@@ -4773,7 +4773,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370185134",
         "tvgName": "A SPOR",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370185134.m3u8"
     },
     {
@@ -4782,7 +4782,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370185351",
         "tvgName": "TRT SPOR",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370185351.m3u8"
     },
     {
@@ -4791,7 +4791,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370185624",
         "tvgName": "TRT SPOR YILDIZ",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370185624.m3u8"
     },
     {
@@ -4800,7 +4800,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370185855",
         "tvgName": "HT SPOR HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370185855.m3u8"
     },
     {
@@ -4809,7 +4809,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370186076",
         "tvgName": "EKOL SPOR HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370186076.m3u8"
     },
     {
@@ -4818,7 +4818,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370186309",
         "tvgName": "StarLIVE SPORTS HABER",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370186309.m3u8"
     },
     {
@@ -4827,7 +4827,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370186528",
         "tvgName": "StarLIVE SPORTS HABER HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370186528.m3u8"
     },
     {
@@ -4836,7 +4836,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370186753",
         "tvgName": "StarLIVE SPORTS HABER RAW",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370186753.m3u8"
     },
     {
@@ -4845,7 +4845,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370186980",
         "tvgName": "StarLIVE SPORTS 8K FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370186980.m3u8"
     },
     {
@@ -4854,7 +4854,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370187198",
         "tvgName": "StarLIVE SPORTS FEED (OZEL FEED YAYIN)",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370187198.m3u8"
     },
     {
@@ -4863,7 +4863,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370187424",
         "tvgName": "StarLIVE SPORTS 4K FEED(KUTU)",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370187424.m3u8"
     },
     {
@@ -4872,7 +4872,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370187642",
         "tvgName": "StarLIVE SPORTS 4K FEED(UYDU)",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370187642.m3u8"
     },
     {
@@ -4881,7 +4881,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370188520",
         "tvgName": "StarLIVE SPORTS 1 50 FPS",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370188520.m3u8"
     },
     {
@@ -4890,7 +4890,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370188736",
         "tvgName": "StarLIVE SPORTS 1 H265",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370188736.m3u8"
     },
     {
@@ -4899,7 +4899,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370188956",
         "tvgName": "StarLIVE SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370188956.m3u8"
     },
     {
@@ -4908,7 +4908,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370189183",
         "tvgName": "StarLIVE SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370189183.m3u8"
     },
     {
@@ -4917,7 +4917,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370189410",
         "tvgName": "StarLIVE SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370189410.m3u8"
     },
     {
@@ -4926,7 +4926,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370189635",
         "tvgName": "StarLIVE SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370189635.m3u8"
     },
     {
@@ -4935,7 +4935,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370189860",
         "tvgName": "StarLIVE SPORTS 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370189860.m3u8"
     },
     {
@@ -4944,7 +4944,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370190077",
         "tvgName": "StarLIVE SPORTS 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370190077.m3u8"
     },
     {
@@ -4953,7 +4953,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370190295",
         "tvgName": "StarLIVE SPORTS 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370190295.m3u8"
     },
     {
@@ -4962,7 +4962,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370190520",
         "tvgName": "StarLIVE SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370190520.m3u8"
     },
     {
@@ -4971,7 +4971,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370190744",
         "tvgName": "StarLIVE SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370190744.m3u8"
     },
     {
@@ -4980,7 +4980,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370190965",
         "tvgName": "StarLIVE SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370190965.m3u8"
     },
     {
@@ -4989,7 +4989,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370191189",
         "tvgName": "StarLIVE SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370191189.m3u8"
     },
     {
@@ -4998,7 +4998,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370191413",
         "tvgName": "StarLIVE SPORTS 2 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370191413.m3u8"
     },
     {
@@ -5007,7 +5007,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370191736",
         "tvgName": "StarLIVE SPORTS 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370191736.m3u8"
     },
     {
@@ -5016,7 +5016,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370192100",
         "tvgName": "StarLIVE SPORTS 2 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370192100.m3u8"
     },
     {
@@ -5025,7 +5025,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370192320",
         "tvgName": "StarLIVE SPORTS 3 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370192320.m3u8"
     },
     {
@@ -5034,7 +5034,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370192546",
         "tvgName": "StarLIVE SPORTS 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370192546.m3u8"
     },
     {
@@ -5043,7 +5043,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370192898",
         "tvgName": "StarLIVE SPORTS 3 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370192898.m3u8"
     },
     {
@@ -5052,7 +5052,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370193123",
         "tvgName": "StarLIVE SPORTS 3 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370193123.m3u8"
     },
     {
@@ -5061,7 +5061,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370193365",
         "tvgName": "StarLIVE SPORTS 4 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370193365.m3u8"
     },
     {
@@ -5070,7 +5070,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370193702",
         "tvgName": "StarLIVE SPORTS 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370193702.m3u8"
     },
     {
@@ -5079,7 +5079,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370193930",
         "tvgName": "StarLIVE SPORTS 4 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370193930.m3u8"
     },
     {
@@ -5088,7 +5088,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370194164",
         "tvgName": "StarLIVE SPORTS 4 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370194164.m3u8"
     },
     {
@@ -5097,7 +5097,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370194381",
         "tvgName": "StarLIVE SPORTS 5 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370194381.m3u8"
     },
     {
@@ -5106,7 +5106,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370194609",
         "tvgName": "StarLIVE SPORTS 5 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370194609.m3u8"
     },
     {
@@ -5115,7 +5115,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370194834",
         "tvgName": "StarLIVE SPORTS MAX 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370194834.m3u8"
     },
     {
@@ -5124,7 +5124,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370195054",
         "tvgName": "StarLIVE SPORTS MAX 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370195054.m3u8"
     },
     {
@@ -5133,7 +5133,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370195277",
         "tvgName": "StarLIVE SPORTS MAX 2 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370195277.m3u8"
     },
     {
@@ -5142,7 +5142,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370195587",
         "tvgName": "StarLIVE SPORTS MAX 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370195587.m3u8"
     },
     {
@@ -5151,7 +5151,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370195819",
         "tvgName": "StarLIVE SPORTS MAX 2 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370195819.m3u8"
     },
     {
@@ -5160,7 +5160,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370196059",
         "tvgName": "S SPORT",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370196059.m3u8"
     },
     {
@@ -5169,7 +5169,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370196285",
         "tvgName": "S-SPORT 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370196285.m3u8"
     },
     {
@@ -5178,7 +5178,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370196509",
         "tvgName": "S-SPORT 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370196509.m3u8"
     },
     {
@@ -5187,7 +5187,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370196738",
         "tvgName": "S-SPORT 1 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370196738.m3u8"
     },
     {
@@ -5196,7 +5196,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370197064",
         "tvgName": "S-SPORT 2 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370197064.m3u8"
     },
     {
@@ -5205,7 +5205,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370197308",
         "tvgName": "S SPORT 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370197308.m3u8"
     },
     {
@@ -5214,7 +5214,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370197534",
         "tvgName": "S-SPORT 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370197534.m3u8"
     },
     {
@@ -5223,7 +5223,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370197753",
         "tvgName": "S-SPORT 2 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370197753.m3u8"
     },
     {
@@ -5232,7 +5232,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370197978",
         "tvgName": "S-SPORT PLUS HD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370197978.m3u8"
     },
     {
@@ -5241,7 +5241,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370198351",
         "tvgName": "S-SPORT PLUS 1 HD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370198351.m3u8"
     },
     {
@@ -5250,7 +5250,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370198574",
         "tvgName": "S-SPORT PLUS 1 FHD  MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370198574.m3u8"
     },
     {
@@ -5259,7 +5259,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370198800",
         "tvgName": "S-SPORT PLUS 2 HD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370198800.m3u8"
     },
     {
@@ -5268,7 +5268,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370199016",
         "tvgName": "S-SPORT PLUS 2 FHD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370199016.m3u8"
     },
     {
@@ -5277,7 +5277,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370199225",
         "tvgName": "S-SPORT PLUS 3 FHD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370199225.m3u8"
     },
     {
@@ -5286,7 +5286,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370199533",
         "tvgName": "S SPORT PLUS 4 FHD MAÇ ZAMANI",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370199533.m3u8"
     },
     {
@@ -5295,7 +5295,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370199748",
         "tvgName": "TIVIBU SPOR RAW",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370199748.m3u8"
     },
     {
@@ -5304,7 +5304,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370199973",
         "tvgName": "TIVIBU SPOR  HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370199973.m3u8"
     },
     {
@@ -5313,7 +5313,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370200219",
         "tvgName": "TIVIBU SPOR  HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370200219.m3u8"
     },
     {
@@ -5322,7 +5322,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370200544",
         "tvgName": "TIVIBU SPOR 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370200544.m3u8"
     },
     {
@@ -5331,7 +5331,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370200901",
         "tvgName": "TIVIBU SPOR 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370200901.m3u8"
     },
     {
@@ -5340,7 +5340,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370201117",
         "tvgName": "TIVIBU SPOR 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370201117.m3u8"
     },
     {
@@ -5349,7 +5349,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370201328",
         "tvgName": "TIVIBU SPOR 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370201328.m3u8"
     },
     {
@@ -5358,7 +5358,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370201534",
         "tvgName": "TIVIBU SPOR 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370201534.m3u8"
     },
     {
@@ -5367,7 +5367,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370201751",
         "tvgName": "TIVIBU SPOR 2 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370201751.m3u8"
     },
     {
@@ -5376,7 +5376,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370201974",
         "tvgName": "TIVIBU SPOR 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370201974.m3u8"
     },
     {
@@ -5385,7 +5385,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370202207",
         "tvgName": "TIVIBU SPOR 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370202207.m3u8"
     },
     {
@@ -5394,7 +5394,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370202434",
         "tvgName": "TIVIBU SPOR 3 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370202434.m3u8"
     },
     {
@@ -5403,7 +5403,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370202668",
         "tvgName": "TIVIBU SPOR 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370202668.m3u8"
     },
     {
@@ -5412,7 +5412,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370202883",
         "tvgName": "TIVIBU SPOR 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370202883.m3u8"
     },
     {
@@ -5421,7 +5421,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370203100",
         "tvgName": "TIVIBU SPOR 5 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370203100.m3u8"
     },
     {
@@ -5430,7 +5430,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370203311",
         "tvgName": "TABII SPOR SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370203311.m3u8"
     },
     {
@@ -5439,7 +5439,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370203703",
         "tvgName": "TABII SPOR HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370203703.m3u8"
     },
     {
@@ -5448,7 +5448,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370203972",
         "tvgName": "TABII SPOR FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370203972.m3u8"
     },
     {
@@ -5457,7 +5457,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370204183",
         "tvgName": "TABII SPOR 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370204183.m3u8"
     },
     {
@@ -5466,7 +5466,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370204397",
         "tvgName": "TABII SPOR 1 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370204397.m3u8"
     },
     {
@@ -5475,7 +5475,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370204615",
         "tvgName": "TABII SPOR 1 4K",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370204615.m3u8"
     },
     {
@@ -5484,7 +5484,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370204823",
         "tvgName": "TABII SPOR 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370204823.m3u8"
     },
     {
@@ -5493,7 +5493,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370205040",
         "tvgName": "TABII SPOR 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370205040.m3u8"
     },
     {
@@ -5502,7 +5502,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370205252",
         "tvgName": "TABII SPOR 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370205252.m3u8"
     },
     {
@@ -5511,7 +5511,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370205509",
         "tvgName": "TABII SPOR 5 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370205509.m3u8"
     },
     {
@@ -5520,7 +5520,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370205744",
         "tvgName": "TABII SPOR 5 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370205744.m3u8"
     },
     {
@@ -5529,7 +5529,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370205966",
         "tvgName": "TABII SPOR 6 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370205966.m3u8"
     },
     {
@@ -5538,7 +5538,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370206185",
         "tvgName": "SPOR SMART 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370206185.m3u8"
     },
     {
@@ -5547,7 +5547,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370206423",
         "tvgName": "SPOR SMART 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370206423.m3u8"
     },
     {
@@ -5556,7 +5556,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370206640",
         "tvgName": "SPOR SMART 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370206640.m3u8"
     },
     {
@@ -5565,7 +5565,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370206854",
         "tvgName": "SPOR SMART 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370206854.m3u8"
     },
     {
@@ -5574,7 +5574,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370207063",
         "tvgName": "SPOR SMART 1 HEVC",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370207063.m3u8"
     },
     {
@@ -5583,7 +5583,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370207277",
         "tvgName": "SPOR SMART 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370207277.m3u8"
     },
     {
@@ -5592,7 +5592,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370207528",
         "tvgName": "SPOR SMART 2 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370207528.m3u8"
     },
     {
@@ -5601,7 +5601,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370207751",
         "tvgName": "EUROSPORT 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370207751.m3u8"
     },
     {
@@ -5610,7 +5610,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370207968",
         "tvgName": "EUROSPORT 1 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370207968.m3u8"
     },
     {
@@ -5619,7 +5619,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370208199",
         "tvgName": "EUROSPORT 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370208199.m3u8"
     },
     {
@@ -5628,7 +5628,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370208412",
         "tvgName": "EUROSPORT 2 FHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370208412.m3u8"
     },
     {
@@ -5637,7 +5637,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370208628",
         "tvgName": "SPORTS TV",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370208628.m3u8"
     },
     {
@@ -5646,7 +5646,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370208851",
         "tvgName": "EXXEN SPORTS 1 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370208851.m3u8"
     },
     {
@@ -5655,7 +5655,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370209071",
         "tvgName": "EXXEN SPORTS 1 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370209071.m3u8"
     },
     {
@@ -5664,7 +5664,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370209307",
         "tvgName": "EXXEN SPORTS 1 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370209307.m3u8"
     },
     {
@@ -5673,7 +5673,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370209532",
         "tvgName": "EXXEN SPORTS 1 FEED",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370209532.m3u8"
     },
     {
@@ -5682,7 +5682,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370209860",
         "tvgName": "EXXEN SPORTS 2 SD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370209860.m3u8"
     },
     {
@@ -5691,7 +5691,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370210076",
         "tvgName": "EXXEN SPORTS 2 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370210076.m3u8"
     },
     {
@@ -5700,7 +5700,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370210304",
         "tvgName": "EXXEN SPORTS 2 UHD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370210304.m3u8"
     },
     {
@@ -5709,7 +5709,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370210539",
         "tvgName": "EXXEN SPORTS 3 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370210539.m3u8"
     },
     {
@@ -5718,7 +5718,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370210765",
         "tvgName": "EXXEN SPORTS 4 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370210765.m3u8"
     },
     {
@@ -5727,7 +5727,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370210988",
         "tvgName": "EXXEN SPORTS 5 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370210988.m3u8"
     },
     {
@@ -5736,7 +5736,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370211205",
         "tvgName": "EXXEN SPORTS 6 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370211205.m3u8"
     },
     {
@@ -5745,7 +5745,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370211418",
         "tvgName": "EXXEN SPORTS 7 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370211418.m3u8"
     },
     {
@@ -5754,7 +5754,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785370211638",
         "tvgName": "EXXEN SPORTS 8 HD",
         "tvgLogo": "https://img.wpfc.ml/90d/k3/zqvbkx.png",
-        "groupTitle": "⓵ ➠ SPOR KANALLARI",
+        "groupTitle": "SPOR",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785370211638.m3u8"
     },
     {
