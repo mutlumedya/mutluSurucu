@@ -10695,7 +10695,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163943",
         "tvgName": "TGRT BELGESEL",
         "tvgLogo": "https://r.resimlink.com/KT-GhEyP.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163943.m3u8"
     },
     {
@@ -10704,7 +10704,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163944",
         "tvgName": "TRT BELGESEL",
         "tvgLogo": "https://www.trtbelgesel.com.tr/images/logo.svg",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163944.m3u8"
     },
     {
@@ -10713,7 +10713,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163944",
         "tvgName": "BEIN İZ",
         "tvgLogo": "https://i.postimg.cc/Jn4YjX2g/Be-IN-IZ--removebg-preview.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163944.m3u8"
     },
     {
@@ -10722,7 +10722,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163945",
         "tvgName": "GZT",
         "tvgLogo": "https://gzttv.tr/logo.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163945.m3u8"
     },
     {
@@ -10731,7 +10731,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163945",
         "tvgName": "YABAN TV",
         "tvgLogo": "https://www.yabantv.com/public/img/ayar/yabantv_logo.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163945.m3u8"
     },
     {
@@ -10740,7 +10740,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163946",
         "tvgName": "DMAX",
         "tvgLogo": "https://i.postimg.cc/N0h5y750/dmax-vector-logo-removebg-preview.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163946.m3u8"
     },
     {
@@ -10749,7 +10749,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163947",
         "tvgName": "ÇİFTÇİ TV",
         "tvgLogo": "https://www.ciftcitv.com/assets/images/logo_dark.svg",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163947.m3u8"
     },
     {
@@ -10758,7 +10758,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163947",
         "tvgName": "CİNE7 SAFARİ",
         "tvgLogo": "https://ia800906.us.archive.org/17/items/cine-7-tezene/CINE7_SAFAR%C4%B0.gif.gif",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163947.m3u8"
     },
     {
@@ -10767,7 +10767,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163948",
         "tvgName": "FORTUNA TV",
         "tvgLogo": "https://i.postimg.cc/QdtBtvWb/37975749-ico.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163948.m3u8"
     },
     {
@@ -10776,7 +10776,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163948",
         "tvgName": "AGRO TV",
         "tvgLogo": "https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163948.m3u8"
     },
     {
@@ -10785,7 +10785,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163949",
         "tvgName": "TARİH TV",
         "tvgLogo": "https://i.postimg.cc/Wb61NL6k/tarihtv-beyaz.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163949.m3u8"
     },
     {
@@ -10794,7 +10794,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163949",
         "tvgName": "BEIN GURME",
         "tvgLogo": "https://i.postimg.cc/xTTxc9G3/Bein-gurme-removebg-preview.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163949.m3u8"
     },
     {
@@ -10803,7 +10803,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163950",
         "tvgName": "KÖY TV",
         "tvgLogo": "https://i.postimg.cc/rFHyrK33/In-Shot-20260629-184228284.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163950.m3u8"
     },
     {
@@ -10812,7 +10812,7 @@ const CODE_CLOUD_BD = {
         "tvgId": "kanal_1785455163950",
         "tvgName": "NATİONAL GEOGRAPHİC",
         "tvgLogo": "https://i.postimg.cc/FsHg9j87/National-Geographic-logo-removebg-preview.png",
-        "groupTitle": "BELGELSEL KANALLARI",
+        "groupTitle": "BELGESEL",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163950.m3u8"
     },
     {
