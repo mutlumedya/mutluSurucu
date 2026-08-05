@@ -11201,6 +11201,15 @@ const CODE_CLOUD_BD = {
         "tvgLogo": "https://r.resimlink.com/6Uea_.webp",
         "groupTitle": "RADYO",
         "url": "https://gizli.mutlumedya.workers.dev/kanal_1785455163979.m3u8"
+    },
+    {
+        "duration": -1,
+        "title": "test",
+        "tvgId": "kanal_1785937254589",
+        "tvgName": "test",
+        "tvgLogo": "",
+        "groupTitle": "Genel",
+        "url": "https://gizli.mutlumedya.workers.dev/kanal_1785937254589.m3u8"
     }
 ]
 };
